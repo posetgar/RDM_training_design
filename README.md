@@ -210,6 +210,40 @@ Models give you a roadmap, but they are not meant to be followed rigidly. It's i
 
 It is tempting to start with *Development* (e.g., making slides), but investing time in *Analysis* and *Design* saves effort later and results in a stronger learning experience.
 
+<h3> ABC Learning design </h3>
+
+In the previous module, you were introduced to the [ABC Learning Design method](https://abc-ld.org/). The ABC Learning Design is a lightweight instructional design framework developed at UCL. It helps you rapidly map a training session using six learning activity types (Acquisition, Collaboration, Discussion, Investigation, Practice, Production) The assignment of this module will be based on this method, so here's a quick recap to explain why we'll use it.
+
+<h4> Why use the ABC for RDM training design? </h4>
+
+<details>
+  <summary><strong>It gives quick, flexible visual results</strong></summary>
+
+ABC is designed for short, fast-paced planning workshops. You can outline an entire session in under an hour. The card-based, storyboard-like process produces a clear session outline immediately. This makes it easy to share with colleagues, adjust, and reuse.
+
+</details>
+
+<details>
+  <summary><strong>You don’t need a pedagogical background</strong></summary>
+
+The model uses simple, intuitive activity types. This makes it accessible for RDM professionals who design training but aren’t formal educators.
+
+</details>
+
+<details>
+  <summary><strong>It supports learner‑centred design</strong></summary>
+
+ABC focuses on what learners do, not just on what trainers deliver. This helps make RDM training more engaging and relevant, even when time with learners is limited.
+
+</details>
+
+<details>
+  <summary><strong>It encourages diversity in learning activities</strong></summary>
+
+The model uses simple, intuitive activity types. This makes it accessible for RDM professionals who design training but aren’t formal educators.
+
+</details>
+
 **What comes next**
 
 In the next part of the course, we will explore each stage of the training design cycle in more detail and apply the steps to your own training concept.
