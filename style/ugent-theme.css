@@ -1,0 +1,181 @@
+:root {
+  --main-color: #1E64C8;        /* UGent Blue */
+  --accent-color: #FFD200;      /* UGent Yellow */
+  --highlight-color: #FFE766;   /* Light yellow hover */
+  --button-bg: #FFD200;         /* Buttons */
+  --button-fg: #000000;         /* Button text */
+  --progress-color: #FFD200;    /* Progress bar + dots */
+  --nav-color: #FFD200;         /* Navigation arrows */
+  --quiz-correct: #1E64C8;      /* Optional: UGent blue correct mark */
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+:root {
+    --ugent-blue: #1E64C8;
+    --ugent-blue-dark: #184F9E;
+    --ugent-yellow: #FFD200;
+    --ugent-yellow-light: #FFE766;
+    --ugent-grey-light: #F5F7FA;
+    --ugent-grey-mid: #E5E8EB;
+    --ugent-grey-dark: #4A4A4A;
+}
+
+/* GLOBAL FONT */
+body, .lia-content, .lia-slide, .lia-section {
+    font-family: "Open Sans", sans-serif !important;
+    color: #222;
+}
+
+/* HEADINGS */
+h1, h2, h3, h4 {
+    font-weight: 700;
+    color: var(--ugent-blue) !important;
+}
+.lia-h1 {
+    border-bottom: 3px solid var(--ugent-blue);
+    padding-bottom: .3em;
+}
+
+/* LINKS */
+a {
+    color: var(--ugent-blue) !important;
+}
+a:hover {
+    color: var(--ugent-blue-dark) !important;
+}
+
+/* SIDEBAR (TOC) */
+.lia-toc {
+    background: var(--ugent-blue) !important;
+}
+.lia-toc a {
+    color: white !important;
+}
+.lia-toc a:hover {
+    color: var(--ugent-yellow-light) !important;
+}
+.lia-toc a.lia-active {
+    background: var(--ugent-blue-dark) !important;
+}
+
+/* SEARCH */
+.lia-search input {
+    background: white !important;
+    color: #222 !important;
+}
+
+/* ===========================================================
+   Accent Boxes
+   =========================================================== */
+
+.ugent-box {
+    padding: 1rem 1.2rem;
+    border-radius: 6px;
+    margin: 1.5rem 0;
+    border-left: 6px solid var(--ugent-blue);
+    background: var(--ugent-grey-light);
+}
+
+.ugent-example {
+    border-color: var(--ugent-blue);
+    background: #F0F6FF;
+}
+.ugent-activity {
+    border-color: var(--ugent-blue);
+    background: #FFF9CC; /* soft yellow */
+}
+.ugent-warning {
+    border-color: var(--ugent-yellow);
+    background: #FFF4CC;
+}
+.ugent-learning {
+    border-color: #8E44AD;
+    background: #F7ECFF;
+}
+
+/* ===========================================================
+   Buttons (navigation, quiz, UI)
+   =========================================================== */
+
+/* Primary interaction buttons */
+.lia-btn,
+button.lia-btn {
+    background: var(--ugent-yellow) !important;
+    color: black !important;
+    border-radius: 4px !important;
+    border: none !important;
+}
+
+.lia-btn:hover {
+    background: var(--ugent-yellow-light) !important;
+}
+
+/* Pagination dots / progress indicators */
+.lia-progress-dot,
+.lia-progress-dot-active {
+    background: var(--ugent-yellow) !important;
+}
+.lia-progress-dot-active {
+    border: 2px solid var(--ugent-blue) !important;
+}
+
+/* Next/Prev navigation arrows */
+.lia-nav-btn {
+    background: var(--ugent-yellow) !important;
+    color: black !important;
+}
+.lia-nav-btn:hover {
+    background: var(--ugent-yellow-light) !important;
+}
+
+/* Quiz checkmarks & states */
+.lia-quiz {
+    border: 2px solid var(--ugent-blue);
+    border-radius: 6px;
+}
+.lia-quiz .lia-btn {
+    background: var(--ugent-yellow) !important;
+    color: black !important;
+}
+
+/* ===========================================================
+   Code & Tables
+   =========================================================== */
+pre, code {
+    background: var(--ugent-grey-mid) !important;
+    border-radius: 4px;
+}
+
+table th {
+    background: var(--ugent-blue);
+    color: white;
+}
+table td {
+    border: 1px solid var(--ugent-grey-mid);
+}
+
+
+/* ===========================================================
+   Summaries
+   =========================================================== */
+
+
+details {
+  border: 1px solid #d7dbe0;
+  background: #fafafa;
+  padding: 0.8em 1em;
+  border-radius: 6px;
+  margin: 1em 0;
+}
+
+details > summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #1f3c88; /* UGent blue */
+}
+
+details[open] {
+  background: #eef4ff;
+  border-color: #1f3c88;
+}
