@@ -14,6 +14,8 @@ mode: section
 
 #  RDM Training Design & Evaluation in Practice
 
+@include: chapters/01-why-training-design.md
+
 This course corresponds to Module 4.2 in the [University of Vienna Data Steward Certificate Course.](https://rdm.univie.ac.at/data-stewards-at-the-university/become-a-data-steward/)
 
 ---
@@ -32,8 +34,6 @@ During the session, the following topics will be addressed:
 - Evaluating and adapting training: how to include evaluation in training and adapt according to feedback or delivery method  
 - Hands-on work: getting started with the design of RDM training
 
-## Why spend time on training design?
-@include: chapters/01-why-training-design.md
 
 <div class="ugent-box ugent-example">
 <h3>Learning outcomes</h3>
