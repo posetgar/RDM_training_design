@@ -33,6 +33,9 @@ During the session, the following topics will be addressed:
 - Hands-on work: getting started with the design of RDM training
 
 <h3> Content </3>
+
+- Why spend time on training design?
+
 ## Why spend time on training design?
 @include: chapters/01-why-training-design.md
 
