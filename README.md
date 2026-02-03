@@ -77,25 +77,14 @@ The details of the assignment will be discussed during the live session and uplo
 
 ## Why spending time on training design?
 
-<h3>Slides</h3>
-<iframe
-  src="https://ugent.h5p.com/content/1292761112369681927/embed"
-  width="100%"
-  height="670"
-  frameborder="0"
-  allowfullscreen="allowfullscreen"
-  allow="geolocation *; microphone *; camera *; midi *; encrypted-media *">
-</iframe>
-
-<h3>Introduction</h3>
 In the last two previous years, we asked participants of the module how much time they spent on different aspects of training design? These were the results:
 Scale
 
-- **1:** I do not spend any time on this aspect
-- **2:** I spend **little** time on this aspect
-- **3:** I spend a **moderate** amount of time on this aspect
-- **4:** I spend **quite a lot** of time on this aspect
-- **5:** I spend **most** of my time on this aspect
+- **1 ->** I do not spend any time on this aspect
+- **2 ->** I spend **little** time on this aspect
+- **3 ->** I spend a **moderate** amount of time on this aspect
+- **4 ->** I spend **quite a lot** of time on this aspect
+- **5 ->** I spend **most** of my time on this aspect
 
 <div style="width:100%; text-align:center; margin: 1em 0;">
   <iframe 
@@ -179,16 +168,6 @@ Thoughtful design prevents overload, avoids unnecessary content, and focuses on 
 </details>
 
 <br>
-
-<lia-keep>
-<details>
-  <summary>Why spending time on training design?</summary>
-  <p>
-    Good training does not happen by accident...
-  </p>
-</details>
-</lia-keep>
-
 
 ## Training design: what does it entail?
 
