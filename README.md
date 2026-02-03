@@ -32,8 +32,8 @@ During the session, the following topics will be addressed:
 - Evaluating and adapting training: how to include evaluation in training and adapt according to feedback or delivery method  
 - Hands-on work: getting started with the design of RDM training
 
-<h3>Content</h3>
-##Why spend time on training design?
+## Content
+## Why spend time on training design?
 @include: chapters/01-why-training-design.md
 
 <div class="ugent-box ugent-example">
