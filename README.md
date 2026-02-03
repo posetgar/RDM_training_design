@@ -1,7 +1,7 @@
 <!--
 link: https://cdn.jsdelivr.net/gh/posetgar/preserving_data_training_test@main/style/ugent-theme.css
-
 title: Research Data Management in practice
+mode: section
 author:     Paula Oset Garcia
 email:      rdm.support@ugent.be
 comment:    This course introduces...
@@ -9,7 +9,6 @@ icon:       https://styleguide.ugent.be/files/uploads/logo_UGent_EN_RGB_2400_kle
 repository: https://github.com/posetgar/preserving_data_course
 language:   en
 @MERMAID:   true
-mode: section
 -->
 
 #  RDM Training Design & Evaluation in Practice
