@@ -221,34 +221,35 @@ In the previous module, you were introduced to the [ABC Learning Design method](
   
   ABC is designed for short, fast-paced planning workshops. You can outline an entire session in under an hour. The card-based, storyboard-like process produces a clear session outline immediately. This makes it easy to share with colleagues, adjust, and reuse.
   
-  </details>
+</details>
   
-  <details>
-    <summary><strong>You don’t need a pedagogical background</strong></summary>
+<details>
+  <summary><strong>You don’t need a pedagogical background</strong></summary>
     
-    The model uses simple, intuitive activity types. This makes it accessible for RDM professionals who design training but aren’t formal educators.
+The model uses simple, intuitive activity types. This makes it accessible for RDM professionals who design training but aren’t formal educators.
     
-    </details>
+</details>
     
-    <details>
-      <summary><strong>It supports learner‑centred design</strong></summary>
+<details>
+  <summary><strong>It supports learner‑centred design</strong></summary>
+
+ABC focuses on what learners do, not just on what trainers deliver. This helps make RDM training more engaging and relevant, even when time with learners is limited.
       
-      ABC focuses on what learners do, not just on what trainers deliver. This helps make RDM training more engaging and relevant, even when time with learners is limited.
+</details>
       
-      </details>
-      
-      <details>
-        <summary><strong>It encourages diversity in learning activities</strong></summary>
+<details>
+   <summary><strong>It encourages diversity in learning activities</strong></summary>
         
-        The model uses simple, intuitive activity types. This makes it accessible for RDM professionals who design training but aren’t formal educators.
+The model uses simple, intuitive activity types. This makes it accessible for RDM professionals who design training but aren’t formal educators.
         
-        </details>
+</details>
         
-        <br>
-        <h3>What comes next</h3>
+<br>
+
+<h3>What comes next</h3>
         
-        In the next part of the course, we will explore the first two stages of the training design cycle (*Analysis* and *Design*), which are covered by the ABC model, and apply these steps to develop your own training concept.
-        >
+In the next part of the course, we will explore the first two stages of the training design cycle (*Analysis* and *Design*), which are covered by the ABC model, and apply these steps to develop your own training concept.
+        
 
 ## Initial training analysis
 
