@@ -346,3 +346,23 @@ This exercise helps you translate a broad training need into a clearer, structur
 <img src="https://raw.githubusercontent.com/posetgar/RDM_training_design/main/assets/Initial_training_analysis.png"
      alt="Training lifecycle" style="max-width: 80%; display: block; margin: 1rem auto;" />
 <br>
+
+<h4> Tips and guidance for the activity </h4>
+
+- **Stay close to the scenario:**  
+  Don’t spend time reinventing or expanding the scenario. Use it as given so you can focus on the analysis rather than defining a new training topic.
+
+- **Avoid getting stuck on institutional differences:**  
+  Everyone comes from different contexts. For this activity, agree as a group on shared assumptions (e.g., target audience, tools available). The goal is to practise the process, not to represent your institution perfectly.
+
+- **You decide the variables:**  
+  Within the scenario, your group defines the audience, any pre‑requisites, the training goal, the expected outcomes, and the rough content. The scenario sets the direction, but the design choices are yours.
+
+- **Focus only on the training component:**  
+  Remember that training is often just one part of a broader institutional strategy (policies, KPIs, awareness campaigns, culture change). For this task, concentrate solely on designing the training session that fits within that bigger picture.
+
+- **Keep the session realistic:**  
+  The session should be **no longer than 90 minutes** and include **no more than 4–5 learning outcomes**. This ensures a manageable scope and enough time for active learning.
+
+- **Think visually and collaboratively:**  
+  Use the post‑its to capture ideas quickly. You can refine them later. Aim for clarity, not perfection.
