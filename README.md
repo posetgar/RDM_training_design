@@ -256,11 +256,11 @@ Before starting to design activities or content, it’s important to pause and c
 
 <div class="ugent-box ugent-warning">
 <h3>What to condsider in an initial training analysis?</h3>
-<p>- The **goals** of your training – the big picture: why this training exists and what change you hope it will bring.</p>
+<p>- **Goals** of your training – the big picture: why this training exists and what change you hope it will bring.</p>
 <p>- **Topics** and scope – what the training will broadly address.</p>
-<p>- Your **audience** – who the learners are, what they already know, what they need, and what might motivate or block them.</p>
+<p>- **Audience** – who the learners are, what they already know, what they need, and what might motivate or block them.</p>
 <p>- **Learning outcomes** – what learners should be able to do afterwards.</p>
-<p>- Delivery choices and **practical issues** – time, tools, format, available resources, and constraints.</p>
+<p>- **Delivery choices and practical issues** – time, tools, format, available resources, and constraints.</p>
 </div>
 
 This information feeds directly into ABC storyboarding later on: clearer goals and outcomes make it easier to select appropriate activity types and to avoid irrelevant content.
@@ -270,10 +270,45 @@ This information feeds directly into ABC storyboarding later on: clearer goals a
 <p>When planning training, you’ll often see the terms goals, objectives, and learning outcomes used. Sometimes the terms overlap or are even interchanged — especially objectives and outcomes. To keep things practical and usable, in this module we focus mainly on goals and outcomes: they may sound similar, but they serve different purposes.</p>
 <h4>Goals: your big-picture intention</h4>
 <p>A goal expresses the broad purpose of your training. It os often written from an instructor's or institution's perspective and answers the question:
-“Why are we offering this training in the first place?”. These are large ambitions — your training contributes to them, but does not achieve them alone. Examples: "Srengthen good research data management practices accross the institution", "Support more transparent and reproducible research".</p>
+“Why are we offering this training in the first place?”. These are large ambitions — your training contributes to them, but does not achieve them alone. Examples: "Strengthen good research data management practices accross the institution", "Support more transparent and reproducible research".</p>
 <h4>Outcomes: what learners will be able to do afterwards</h4>
 <p>Learning outcomes describe the specific, observable things learners should be able to do after completing the training. They are observable behaviours or skills that show the training has worked. Examples: "“Participants can choose an appropriate repository for their data", “Participants can recognise when personal or sensitive data requires extra protection”.</p>
 </div>
 
+<h3>Writing good learning outcomes</h3>
+Good learning outcomes help you design focused, measurable training. They guide your choice of activities in the ABC model and help you evaluate whether the training worked.
+
+<h4>Use the SMARTIE framework</h4>
+Learning outcomes should be:
+- **S**pecific – focused on a clear behaviour or skill
+- **M**easurable – observable in some way
+- **A**chievable – realistic for your timeframe
+- **R**elevant – tied to your training goal
+- **T**ime-limited – achievable by the end of this session
+- **I**nclusive – accessible to all intended learners
+- **E**quitable – fair regardless of background or prior experience
+
+<h4>Use Bloom's Taxonomy to choose strong action verbs</h4>
+Bloom’s levels go from basic to advanced cognitive activities:
+- Remember: list, identify, define
+- Understand: explain, describe, summarise
+- Apply: use, implement, demonstrate
+- Analyze: compare, distinguish, examine
+- Evaluate: assess, justify, critique
+- Create: design, develop, construct
+
+Avoid vague verbs like “know”, “learn about”, “understand”, which are hard to measure.
+
+<h4>Practice: re-write poorly written learning outcomes</h4>
+Below you see a poorly written learning outcome, followed by a better version with missing words. Choose the correct terms from the dropdown(s).
+
+<h5>Data management plans</h5>
+- Learners will **understand** DMPs.
+- By the end of this session, you will be able to [[(identify)|know|memorize]] the **key** components of a [[(data management plan)|data marketing plan|document management policy]].
+
+
+<br>
 <h5>References</h5>
 - DePaul University. Course objectives & learning outcomes. https://resources.depaul.edu/teaching-commons/teaching-guides/course-design/Pages/course-objectives-learning-outcomes.aspx 
+- Bruna Piereck, Jill Jaworski, Nina Norgren, Elin Kronander, Kristen Schroeder, Alexander Botzki, Jessica Lindvall, Ineke Luijten (2025). The ELIXIR Training material made FAIR by design course. DOI: 10.5281/zenodo.13773159
+- Clare, H., Cepinskas, L., Leenarts, E., & Krzyzanek, M. (2022, October 26). EOSC Synergy Online Training Handbook materials. Zenodo. https://doi.org/10.5281/zenodo.7254522 
