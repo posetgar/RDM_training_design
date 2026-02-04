@@ -218,37 +218,37 @@ In the previous module, you were introduced to the [ABC Learning Design method](
 
 <details>
   <summary><strong>It gives quick, flexible visual results</strong></summary>
-
-ABC is designed for short, fast-paced planning workshops. You can outline an entire session in under an hour. The card-based, storyboard-like process produces a clear session outline immediately. This makes it easy to share with colleagues, adjust, and reuse.
-
-</details>
-
-<details>
-  <summary><strong>You don’t need a pedagogical background</strong></summary>
-
-The model uses simple, intuitive activity types. This makes it accessible for RDM professionals who design training but aren’t formal educators.
-
-</details>
-
-<details>
-  <summary><strong>It supports learner‑centred design</strong></summary>
-
-ABC focuses on what learners do, not just on what trainers deliver. This helps make RDM training more engaging and relevant, even when time with learners is limited.
-
-</details>
-
-<details>
-  <summary><strong>It encourages diversity in learning activities</strong></summary>
-
-The model uses simple, intuitive activity types. This makes it accessible for RDM professionals who design training but aren’t formal educators.
-
-</details>
-
-<br>
-<h3>What comes next</h3>
-
-In the next part of the course, we will explore the first two stages of the training design cycle (*Analysis* and *Design*), which are covered by the ABC model, and apply these steps to develop your own training concept.
-
+  
+  ABC is designed for short, fast-paced planning workshops. You can outline an entire session in under an hour. The card-based, storyboard-like process produces a clear session outline immediately. This makes it easy to share with colleagues, adjust, and reuse.
+  
+  </details>
+  
+  <details>
+    <summary><strong>You don’t need a pedagogical background</strong></summary>
+    
+    The model uses simple, intuitive activity types. This makes it accessible for RDM professionals who design training but aren’t formal educators.
+    
+    </details>
+    
+    <details>
+      <summary><strong>It supports learner‑centred design</strong></summary>
+      
+      ABC focuses on what learners do, not just on what trainers deliver. This helps make RDM training more engaging and relevant, even when time with learners is limited.
+      
+      </details>
+      
+      <details>
+        <summary><strong>It encourages diversity in learning activities</strong></summary>
+        
+        The model uses simple, intuitive activity types. This makes it accessible for RDM professionals who design training but aren’t formal educators.
+        
+        </details>
+        
+        <br>
+        <h3>What comes next</h3>
+        
+        In the next part of the course, we will explore the first two stages of the training design cycle (*Analysis* and *Design*), which are covered by the ABC model, and apply these steps to develop your own training concept.
+        >
 
 ## Initial training analysis
 
@@ -328,3 +328,16 @@ Below you see a poorly written learning outcome, followed by a better version wi
 - DePaul University. Course objectives & learning outcomes. https://resources.depaul.edu/teaching-commons/teaching-guides/course-design/Pages/course-objectives-learning-outcomes.aspx 
 - Bruna Piereck, Jill Jaworski, Nina Norgren, Elin Kronander, Kristen Schroeder, Alexander Botzki, Jessica Lindvall, Ineke Luijten (2025). The ELIXIR Training material made FAIR by design course. DOI: 10.5281/zenodo.13773159
 - Clare, H., Cepinskas, L., Leenarts, E., & Krzyzanek, M. (2022, October 26). EOSC Synergy Online Training Handbook materials. Zenodo. https://doi.org/10.5281/zenodo.7254522 
+
+### Group Activity: Initial Training Analysis
+
+Now that you have seen what goes into an initial training analysis, it’s time to put this into practice. In this activity, you will work in small groups in breakout rooms to complete a training analysis. The initial training analysis template that will be used for this activity is a simpler version than the one you will use for your individual assignment later in the module, but it includes all the key elements you need to begin thinking like a training designer.
+
+You will work collaboratively on a shared <strong>Miro board</strong>. Each group will receive:
+<ul>
+  <li>a predefined training scenario,</li>
+  <li>a simplified analysis table (Title, Audience, Training goal(s), Benefits/outcomes, Pre‑requisites, Content),</li>
+  <li>a set of post‑its to brainstorm and add your ideas to each category.</li>
+</ul>
+
+This exercise helps you translate a broad training need into a clearer, structured concept — the essential first step before applying the ABC Learning Design method.
