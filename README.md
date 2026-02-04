@@ -304,20 +304,24 @@ Avoid vague verbs like “know”, “learn about”, “understand”, which ar
 Below you see a poorly written learning outcome, followed by a better version with missing words. Choose the correct terms from the dropdown(s).
 
 <h5>Data management plans</h5>
-- Learners will **understand** DMPs.
-- By the end of this session, you will be able to [[(identify)|know|memorize]] the **key** components of a [[(data management plan)|data marketing plan|document management policy]].
+- Learners will understand DMPs.
+- By the end of this session, you will be able to [[(identify)|know|memorize]] the key components of a [[(data management plan)|data marketing plan|document management policy]].
 
+<h5>Senstitive data awareness</h5>
+- Learners will appreciate data sensitivity.
+- By the end of this session, you will be able to [[(explain)|note|list]] when data is considered sensitive and [[(justify)|imagine|assume]] the additional protections it requires.
 
-| Poorly written outcome | Improved learning outcome (choose correct terms) |
-|------------------------|--------------------------------------------------|
-| Learners will **understand** DMPs. | By the end of this session, you will be able to [[(identify)|know|memorize]] the key components of a [[(data management plan)|data marketing plan|document management policy]]. |
-| Participants will **be aware of** good file naming. | By the end of the workshop, you will be able to [[(apply)|recognize|appreciate]] consistent file‑naming conventions to a small example [[(dataset)|datasheet|dataserver]]. |
-| Learners will **learn about** repositories. | By the end of this training, you will be able to [[(compare)|remember|observe]] repository options and [[(select)|speculate|guess]] one that fits a given scenario. |
-| Participants will **know** folder structures. | By the end of the module, you will be able to [[(create)|recall|view]] a basic, documented folder structure that [[(supports)|mentions|resembles]] reproducible research. |
-| Learners will **appreciate** data sensitivity. | By the end of this session, you will be able to [[(explain)|note|list]] when data is considered sensitive and [[(justify)|imagine|assume]] the additional protections it requires. |
-| Participants will **understand** FAIR. | By the end of this session, you will be able to [[(evaluate)|mention|copy]] a dataset against the [[(FAIR)|FAIRY|FARE]] principles and [[(recommend)|hope|intuit]] one improvement. |
-| Learners will **know about** licenses. | By the end of this session, you will be able to [[(choose)|observe|remember]] an appropriate license for sharing a dataset and [[(justify)|describe|assume]] your choice. |
-| Participants will **be aware of** support options. | By the end of this session, you will be able to [[(identify)|sense|predict]] the relevant support routes at your institution and [[(locate)|invent|improvise]] the correct point of contact. |
+<h5>Data repositories</h5>
+- Participants will learn about data repositories.
+- By the end of this training, you will be able to [[(compare)|remember|observe]] repository options and [[(select)|speculate|guess]] one that fits a given scenario.
+
+<h5>FAIR assessment</h5>
+- Participants will understand FAIR.
+- By the end of the workshop, you will be able to [[(evaluate)|mention|copy]] a dataset against the FAIR principles and [[(recommend)|outline|speculate]] one improvement.
+
+<h5>Licensing for data sharing</h5>
+- Learners will know about licenses.
+- By the end of this session, you will be able to [[(choose)|observe|remember]] an appropriate license for sharing a dataset and [[(justify)|describe|assume]] your choice.
 
 <br>
 <h3>References</h3>
