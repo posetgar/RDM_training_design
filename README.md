@@ -329,11 +329,11 @@ Below you see a poorly written learning outcome, followed by a better version wi
 - Bruna Piereck, Jill Jaworski, Nina Norgren, Elin Kronander, Kristen Schroeder, Alexander Botzki, Jessica Lindvall, Ineke Luijten (2025). The ELIXIR Training material made FAIR by design course. DOI: 10.5281/zenodo.13773159
 - Clare, H., Cepinskas, L., Leenarts, E., & Krzyzanek, M. (2022, October 26). EOSC Synergy Online Training Handbook materials. Zenodo. https://doi.org/10.5281/zenodo.7254522 
 
-### Group Activity: Initial Training Analysis
+### Group activity: Initial training analysis
 
 Now that you have seen what goes into an initial training analysis, it’s time to put this into practice. In this activity, you will work in small groups in breakout rooms to complete a training analysis. The initial training analysis template that will be used for this activity is a simpler version than the one you will use for your individual assignment later in the module, but it includes all the key elements you need to begin thinking like a training designer.
 
-You will work collaboratively on a shared <strong>Miro board</strong>. Each group will receive:
+You will work collaboratively on a shared **Miro board**. Each group will receive:
 <ul>
   <li>a predefined training scenario,</li>
   <li>a simplified analysis table (Title, Audience, Training goal(s), Benefits/outcomes, Pre‑requisites, Content),</li>
@@ -341,3 +341,8 @@ You will work collaboratively on a shared <strong>Miro board</strong>. Each grou
 </ul>
 
 This exercise helps you translate a broad training need into a clearer, structured concept — the essential first step before applying the ABC Learning Design method.
+
+<br>
+<img src="https://raw.githubusercontent.com/posetgar/RDM_training_design/main/assets/Initial_training_analysis.png"
+     alt="Training lifecycle" style="max-width: 80%; display: block; margin: 1rem auto;" />
+<br>
