@@ -168,7 +168,7 @@ Thoughtful design prevents overload, avoids unnecessary content, and focuses on 
 
 <br>
 
-## Training design: what does it entail?
+## The training design lifecycle
 
 Training design is more than preparing slides or selecting activities. It is a
 structured process that helps you create learning experiences that are relevant,
