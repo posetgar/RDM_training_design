@@ -275,6 +275,7 @@ This information feeds directly into ABC storyboarding later on: clearer goals a
 <p>Learning outcomes describe the specific, observable things learners should be able to do after completing the training. They are observable behaviours or skills that show the training has worked. Examples: "“Participants can choose an appropriate repository for their data", “Participants can recognise when personal or sensitive data requires extra protection”.</p>
 </div>
 
+<br>
 <h3>Writing good learning outcomes</h3>
 Good learning outcomes help you design focused, measurable training. They guide your choice of activities in the ABC model and help you evaluate whether the training worked.
 
@@ -307,8 +308,19 @@ Below you see a poorly written learning outcome, followed by a better version wi
 - By the end of this session, you will be able to [[(identify)|know|memorize]] the **key** components of a [[(data management plan)|data marketing plan|document management policy]].
 
 
+| Poorly written outcome | Improved learning outcome (choose correct terms) |
+|------------------------|--------------------------------------------------|
+| Learners will **understand** DMPs. | By the end of this session, you will be able to [[(identify)|know|memorize]] the key components of a [[(data management plan)|data marketing plan|document management policy]]. |
+| Participants will **be aware of** good file naming. | By the end of the workshop, you will be able to [[(apply)|recognize|appreciate]] consistent file‑naming conventions to a small example [[(dataset)|datasheet|dataserver]]. |
+| Learners will **learn about** repositories. | By the end of this training, you will be able to [[(compare)|remember|observe]] repository options and [[(select)|speculate|guess]] one that fits a given scenario. |
+| Participants will **know** folder structures. | By the end of the module, you will be able to [[(create)|recall|view]] a basic, documented folder structure that [[(supports)|mentions|resembles]] reproducible research. |
+| Learners will **appreciate** data sensitivity. | By the end of this session, you will be able to [[(explain)|note|list]] when data is considered sensitive and [[(justify)|imagine|assume]] the additional protections it requires. |
+| Participants will **understand** FAIR. | By the end of this session, you will be able to [[(evaluate)|mention|copy]] a dataset against the [[(FAIR)|FAIRY|FARE]] principles and [[(recommend)|hope|intuit]] one improvement. |
+| Learners will **know about** licenses. | By the end of this session, you will be able to [[(choose)|observe|remember]] an appropriate license for sharing a dataset and [[(justify)|describe|assume]] your choice. |
+| Participants will **be aware of** support options. | By the end of this session, you will be able to [[(identify)|sense|predict]] the relevant support routes at your institution and [[(locate)|invent|improvise]] the correct point of contact. |
+
 <br>
-<h5>References</h5>
+<h3>References</h3>
 - DePaul University. Course objectives & learning outcomes. https://resources.depaul.edu/teaching-commons/teaching-guides/course-design/Pages/course-objectives-learning-outcomes.aspx 
 - Bruna Piereck, Jill Jaworski, Nina Norgren, Elin Kronander, Kristen Schroeder, Alexander Botzki, Jessica Lindvall, Ineke Luijten (2025). The ELIXIR Training material made FAIR by design course. DOI: 10.5281/zenodo.13773159
 - Clare, H., Cepinskas, L., Leenarts, E., & Krzyzanek, M. (2022, October 26). EOSC Synergy Online Training Handbook materials. Zenodo. https://doi.org/10.5281/zenodo.7254522 
