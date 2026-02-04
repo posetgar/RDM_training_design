@@ -244,9 +244,9 @@ The model uses simple, intuitive activity types. This makes it accessible for RD
 
 </details>
 
-**What comes next**
+<h3>What comes next</h3>
 
-In the next part of the course, we will explore each stage of the training design cycle in more detail and apply the steps to your own training concept.
+In the next part of the course, we will explore the first two stages of the training design cycle (*Analysis* and *Design*), which are covered by the ABC model, and apply these steps to develop your own training concept.
 
 
 
