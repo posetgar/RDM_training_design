@@ -359,7 +359,7 @@ This exercise helps you translate a broad training need into a clearer, structur
   Within the scenario, your group defines the audience, any pre‑requisites, the training goal, the expected outcomes, and the rough content. The scenario sets the direction, but the design choices are yours.
 
 - **Focus only on the training component:**  
-  Remember that training is often just one part of a broader institutional strategy (policies, KPIs, awareness campaigns, culture change). For this task, concentrate solely on designing the training session that fits within that bigger picture.
+  In practice, achieving an institutional goal (e.g. increasing data deposition or supporting a new policy) usually involves multiple actions — communication campaigns, stakeholder engagement, guidance materials, technical support, etc. For this activity, concentrate only on the training session. Do not try to design the full strategy around it.
 
 - **Keep the session realistic:**  
   The session should be **no longer than 90 minutes** and include **no more than 4–5 learning outcomes**. This ensures a manageable scope and enough time for active learning.
