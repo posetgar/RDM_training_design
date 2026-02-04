@@ -225,14 +225,6 @@ Good design keeps learners active rather than passive.
 
 </details>
 
-<details>
-  <summary><strong>It gives quick, flexible visual results</strong></summary>
-
-Good design keeps learners active rather than passive.
-
-**Tip:** Break long webinars into short blocks of content, and include polls, quizzes, or breakout discussions. Let participants bring **their own RDM issues** and discuss them in small groups.
-
-</details>
 
 <details>
   <summary><strong>It gives quick, flexible visual results</strong></summary>
