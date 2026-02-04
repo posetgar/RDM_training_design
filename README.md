@@ -244,9 +244,36 @@ The model uses simple, intuitive activity types. This makes it accessible for RD
 
 </details>
 
+<br>
 <h3>What comes next</h3>
 
 In the next part of the course, we will explore the first two stages of the training design cycle (*Analysis* and *Design*), which are covered by the ABC model, and apply these steps to develop your own training concept.
 
 
+## Initial training analysis
 
+Before starting to design activities or content, it’s important to pause and carry out a short initial training analysis. This helps you clarify the purpose of your training, understand who your learners are, and identify any practical constraints. Even a simple analysis makes the later design phase (including ABC Learning Design) faster, more focused, and much more effective.
+
+<div class="ugent-box ugent-warning">
+<h3>What to condsider in an initial training analysis?</h3>
+<p>- The **goals** of your training – the big picture: why this training exists and what change you hope it will bring.</p>
+<p>- **Topics** and scope – what the training will broadly address.</p>
+<p>- Your **audience** – who the learners are, what they already know, what they need, and what might motivate or block them.</p>
+<p>- **Learning outcomes** – what learners should be able to do afterwards.</p>
+<p>- Delivery choices and **practical issues** – time, tools, format, available resources, and constraints.</p>
+</div>
+
+This information feeds directly into ABC storyboarding later on: clearer goals and outcomes make it easier to select appropriate activity types and to avoid irrelevant content.
+
+<div class="ugent-box ugent-example">
+<h3>Goals vs. outcomes</h3>
+<p>When planning training, you’ll often see the terms goals, objectives, and learning outcomes used. Sometimes the terms overlap or are even interchanged — especially objectives and outcomes. To keep things practical and usable, in this module we focus mainly on goals and outcomes: they may sound similar, but they serve different purposes.</p>
+<h4>Goals: your big-picture intention</h4>
+<p>A goal expresses the broad purpose of your training. It os often written from an instructor's or institution's perspective and answers the question:
+“Why are we offering this training in the first place?”. These are large ambitions — your training contributes to them, but does not achieve them alone. Examples: "Srengthen good research data management practices accross the institution", "Support more transparent and reproducible research".</p>
+<h4>Outcomes: what learners will be able to do afterwards</h4>
+<p>Learning outcomes describe the specific, observable things learners should be able to do after completing the training. They are observable behaviours or skills that show the training has worked. Examples: "“Participants can choose an appropriate repository for their data", “Participants can recognise when personal or sensitive data requires extra protection”.</p>
+</div>
+
+<h5>References</h5>
+- DePaul University. Course objectives & learning outcomes. https://resources.depaul.edu/teaching-commons/teaching-guides/course-design/Pages/course-objectives-learning-outcomes.aspx 
