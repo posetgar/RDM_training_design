@@ -217,6 +217,15 @@ In the previous module, you were introduced to the [ABC Learning Design method](
 <h4> Why use the ABC for RDM training design? </h4>
 
 <details>
+  <summary><strong>4. Increase engagement and motivation</strong></summary>
+
+Good design keeps learners active rather than passive.
+
+**Tip:** Break long webinars into short blocks of content, and include polls, quizzes, or breakout discussions. Let participants bring **their own RDM issues** and discuss them in small groups.
+
+</details>
+
+<details>
   <summary><strong>It gives quick, flexible visual results</strong></summary>
   
   ABC is designed for short, fast-paced planning workshops. You can outline an entire session in under an hour. The card-based, storyboard-like process produces a clear session outline immediately. This makes it easy to share with colleagues, adjust, and reuse.
