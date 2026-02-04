@@ -217,7 +217,7 @@ In the previous module, you were introduced to the [ABC Learning Design method](
 <h4> Why use the ABC for RDM training design? </h4>
 
 <details>
-  <summary><strong>4. Increase engagement and motivation</strong></summary>
+  <summary><strong>It gives quick, flexible visual results</strong></summary>
 
 Good design keeps learners active rather than passive.
 
