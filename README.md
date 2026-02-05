@@ -455,3 +455,75 @@ ABC uses six learning types to help you structure the journey. These represent d
       <li>Discussion groups</li>
       <li>Class discussions</li>
     </ul>
+    <p><em>Digital technology:</em></p>
+    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
+      <li>Online tutorials or seminars</li>
+      <li>Email‑based discussions</li>
+      <li>Online discussion groups or forums</li>
+      <li>Web‑conferencing tools (synchronous or asynchronous)</li>
+    </ul>
+  </div>
+
+  <!-- Investigation -->
+  <div style="background:#f8807f; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
+    <strong>Investigation</strong> — learning through exploration
+    <p><em>Conventional method:</em></p>
+    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
+      <li>Using text‑based study guides</li>
+      <li>Analysing ideas or information in various materials</li>
+      <li>Collecting and analysing data</li>
+      <li>Comparing texts</li>
+      <li>Searching and evaluating information</li>
+    </ul>
+    <p><em>Digital technology:</em></p>
+    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
+      <li>Using online advice and guidance</li>
+      <li>Analysing digital resources</li>
+      <li>Using digital tools to collect and analyse data</li>
+      <li>Comparing digital texts</li>
+      <li>Using digital tools for searching and evaluating information</li>
+    </ul>
+  </div>
+
+  <!-- Practice -->
+  <div style="background:#bb98dc; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
+    <strong>Practice</strong> — learning by trying and doing
+    <p><em>Conventional method:</em></p>
+    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
+      <li>Practice exercises</li>
+      <li>Practice‑based projects</li>
+      <li>Labs</li>
+      <li>Field trips</li>
+      <li>Role‑play activities</li>
+    </ul>
+    <p><em>Digital technology:</em></p>
+    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
+      <li>Using models and simulations</li>
+      <li>Microworlds</li>
+      <li>Virtual labs and field trips</li>
+      <li>Online role‑play</li>
+    </ul>
+  </div>
+
+  <!-- Production -->
+  <div style="background:#bdea75; padding:0.8rem; border-radius:4px;">
+    <strong>Production</strong> — learning by creating something
+    <p><em>Conventional method:</em></p>
+    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
+      <li>Statements, essays, reports</li>
+      <li>Accounts or designs</li>
+      <li>Performances or artefacts</li>
+      <li>Animations, models, videos</li>
+    </ul>
+    <p><em>Digital technology:</em></p>
+    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
+      <li>Producing and storing digital documents</li>
+      <li>Digital design representations</li>
+      <li>Performances or artefacts in digital form</li>
+      <li>Animations, models, resources</li>
+      <li>Slideshows, photos, videos</li>
+      <li>Blogs, e‑portfolios</li>
+    </ul>
+  </div>
+
+</div>
