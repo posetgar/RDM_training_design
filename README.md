@@ -412,8 +412,8 @@ ABC uses six learning types to help you structure the journey. These represent d
 <div style="border:1px solid #ddd; padding:1rem; border-radius:6px;">
 
   <div style="background:#a1f5ed; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
-    <strong>Acquisition</strong> — learning by receiving information  
-    <ul>
+    <strong>Acquisition</strong> — learning by receiving information
+    <ul style="margin:0.5rem 0 0 1.2rem; padding:0;">
       <li>Short mini‑lecture introducing a topic</li>
       <li>Demonstration of a workflow or tool</li>
       <li>Reading a short policy excerpt or webpage</li>
@@ -422,8 +422,8 @@ ABC uses six learning types to help you structure the journey. These represent d
   </div>
 
   <div style="background:#ffd966; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
-    <strong>Collaboration</strong> — learning by working together  
-    <ul>
+    <strong>Collaboration</strong> — learning by working together
+    <ul style="margin:0.5rem 0 0 1.2rem; padding:0;">
       <li>Co‑creating a checklist or template in small groups</li>
       <li>Group brainstorming on a Miro board</li>
       <li>Joint problem‑solving tasks</li>
@@ -432,18 +432,18 @@ ABC uses six learning types to help you structure the journey. These represent d
   </div>
 
   <div style="background:#7aaeea; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
-    <strong>Discussion</strong> — learning through dialogue  
-    <ul>
+    <strong>Discussion</strong> — learning through dialogue
+    <ul style="margin:0.5rem 0 0 1.2rem; padding:0;">
       <li>Think–pair–share discussion prompts</li>
       <li>Short breakout‑room debates</li>
-      <li>Whole‑class Q&A or reflection</li>
+      <li>Whole‑class Q&amp;A or reflection</li>
       <li>Forum‑style asynchronous exchanges</li>
     </ul>
   </div>
 
   <div style="background:#f8807f; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
-    <strong>Investigation</strong> — learning through exploration  
-    <ul>
+    <strong>Investigation</strong> — learning through exploration
+    <ul style="margin:0.5rem 0 0 1.2rem; padding:0;">
       <li>Analysing example datasets or documentation</li>
       <li>Searching for information using curated links</li>
       <li>Comparing different repository or policy pages</li>
@@ -452,8 +452,8 @@ ABC uses six learning types to help you structure the journey. These represent d
   </div>
 
   <div style="background:#bb98dc; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
-    <strong>Practice</strong> — learning by trying and doing  
-    <ul>
+    <strong>Practice</strong> — learning by trying and doing
+    <ul style="margin:0.5rem 0 0 1.2rem; padding:0;">
       <li>Completing a short hands‑on task</li>
       <li>Applying a rule or method to a real example</li>
       <li>Renaming a dataset or drafting metadata</li>
@@ -462,8 +462,8 @@ ABC uses six learning types to help you structure the journey. These represent d
   </div>
 
   <div style="background:#bdea75; padding:0.8rem; border-radius:4px;">
-    <strong>Production</strong> — learning by creating something  
-    <ul>
+    <strong>Production</strong> — learning by creating something
+    <ul style="margin:0.5rem 0 0 1.2rem; padding:0;">
       <li>Drafting a mini‑DMP or template</li>
       <li>Creating a folder structure or README file</li>
       <li>Producing a short checklist or summary output</li>
