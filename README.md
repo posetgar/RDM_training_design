@@ -340,6 +340,70 @@ This outcome is: **M**easurable via justification; **R**elevant to real research
 This outcome is: **S**pecific (concrete actions); **M**easurable (two improvements); **R**elevant to real data‑sharing workflows.</p>
 </div>
 
+<details>
+  <summary><strong>Remember: recognizing and recalling facts</strong></summary>
+
+<p>**Useful action verbs**: cite, define, describe, identify, list, recall.</p>
+<p>Weak outcome: "*Learners will understand what a DMP is*".</p>
+<p>**Improved outcome**: "*Learners can **identify** the mandatory sections of a data management plan*". This outcome works better because it is: **S**pecific (mandatory sections); **M**easurable verb; **A**chievable in a short lesson; **R**elevant to all researchers.</p>
+
+</details>
+
+
+<details>
+  <summary><strong>Understand what the facts mean</strong></summary>
+
+<p>**Useful action verbs**: classify, compare, describe, discuss, explain, summarize.</p>
+<p>Weak outcome: "*Learners will know why file naming matters*".</p>
+<p>**Improved outcome**: "*Learners can **explain** two reasons why consistent file naming improves research workflow*".  
+This outcome is: **S**pecific (two reasons); **M**easurable explanation; **I**nclusive — no prior technical experience needed.</p>
+
+</details>
+
+
+<details>
+  <summary><strong>Apply the facts, rules and ideas</strong></summary>
+
+<p>**Useful action verbs**: apply, choose, demonstrate, implement, organize, use.</p>
+<p>Weak outcome: "*Participants will learn about backup options*".</p>
+<p>**Improved outcome**: "*Participants can **apply** the 3‑2‑1 rule to propose a backup strategy for a simple research scenario*".  
+This outcome is: **R**elevant (realistic scenario); **M**easurable (proposed strategy); **A**chievable in class.</p>
+
+</details>
+
+
+<details>
+  <summary><strong>Analyze: recognizing and recalling facts</strong></summary>
+
+<p>**Useful action verbs**: analyze, categorize, compare, differentiate, distinguish, examine.</p>
+<p>Weak outcome: "*Learners will understand why documentation is important*".</p>
+<p>**Improved outcome**: "*Learners can **compare** two datasets with different levels of documentation quality and **examine** how this affects their reusability*".  
+This outcome is: **S**pecific (two datasets); **M**easurable (differences identified); **E**quitable because datasets are provided.</p>
+
+</details>
+
+
+<details>
+  <summary><strong>Evaluate: judging the value of information or ideas</strong></summary>
+
+<p>**Useful action verbs**: assess, critique, decide, evaluate, justify, recommend.</p>
+<p>Weak outcome: "*Learners will know which repository to use*".</p>
+<p>**Improved outcome**: "*Learners can **evaluate** three repository options and **justify** which one best fits a given dataset*".  
+This outcome is: **M**easurable via justification; **R**elevant to real research workflows; **T**ime‑limited (three options).</p>
+
+</details>
+
+
+<details>
+  <summary><strong>Create: combining parts to make a new whole</strong></summary>
+
+<p>**Useful action verbs**: create, design, develop, produce, revise, write.</p>
+<p>Weak outcome: "*Learners will learn how to make data FAIR*".</p>
+<p>**Improved outcome**: "*Learners can **design** a short FAIR‑improvement plan for a dataset, including at least two concrete actions for ‘Findable’ or ‘Reusable’*".  
+This outcome is: **S**pecific (concrete actions); **M**easurable (two improvements); **R**elevant to real data‑sharing workflows.</p>
+
+</details>
+``
 
 <h4>Practice: re-write poorly written learning outcomes</h4>
 Below you see a poorly written learning outcome, followed by a better version with missing words. Choose the correct terms from the dropdown(s).
