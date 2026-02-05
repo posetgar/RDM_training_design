@@ -409,66 +409,49 @@ This is done through storyboarding: mapping out how learners progress through th
 ABC uses six learning types to help you structure the journey. These represent different ways learners engage with content and with each other. By combining them, you create a balanced and engaging learning experience.
 
 <h3>ABC Learning Types and example activities</h3>
+
 <div style="border:1px solid #ddd; padding:1rem; border-radius:6px;">
 
+  <!-- Acquisition -->
   <div style="background:#a1f5ed; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
     <strong>Acquisition</strong> — learning by receiving information
-    <ul style="margin:0.5rem 0 0 1.2rem; padding:0;">
-      <li>Short mini‑lecture introducing a topic</li>
-      <li>Demonstration of a workflow or tool</li>
-      <li>Reading a short policy excerpt or webpage</li>
-      <li>Watching a brief explainer video</li>
+    <p><em>Conventional method:</em></p>
+    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
+      <li>Reading books, papers</li>
+      <li>Listening to teacher presentations or lectures</li>
+      <li>Watching demonstrations or master classes</li>
+    </ul>
+    <p><em>Digital technology:</em></p>
+    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
+      <li>Reading multimedia, websites, digital documents</li>
+      <li>Listening to podcasts or webcasts</li>
+      <li>Watching animations or videos</li>
     </ul>
   </div>
 
+  <!-- Collaboration -->
   <div style="background:#ffd966; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
     <strong>Collaboration</strong> — learning by working together
-    <ul style="margin:0.5rem 0 0 1.2rem; padding:0;">
-      <li>Co‑creating a checklist or template in small groups</li>
-      <li>Group brainstorming on a Miro board</li>
-      <li>Joint problem‑solving tasks</li>
-      <li>Reviewing and improving another group's output</li>
+    <p><em>Conventional method:</em></p>
+    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
+      <li>Small group projects</li>
+      <li>Discussing others’ outputs</li>
+      <li>Building joint outputs</li>
+    </ul>
+    <p><em>Digital technology:</em></p>
+    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
+      <li>Group projects using forums, wikis, chat rooms</li>
+      <li>Building a joint digital output</li>
     </ul>
   </div>
 
+  <!-- Discussion -->
   <div style="background:#7aaeea; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
     <strong>Discussion</strong> — learning through dialogue
-    <ul style="margin:0.5rem 0 0 1.2rem; padding:0;">
-      <li>Think–pair–share discussion prompts</li>
-      <li>Short breakout‑room debates</li>
-      <li>Whole‑class Q&amp;A or reflection</li>
-      <li>Forum‑style asynchronous exchanges</li>
+    <p><em>Conventional method:</em></p>
+    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
+      <li>Tutorials</li>
+      <li>Seminars</li>
+      <li>Discussion groups</li>
+      <li>Class discussions</li>
     </ul>
-  </div>
-
-  <div style="background:#f8807f; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
-    <strong>Investigation</strong> — learning through exploration
-    <ul style="margin:0.5rem 0 0 1.2rem; padding:0;">
-      <li>Analysing example datasets or documentation</li>
-      <li>Searching for information using curated links</li>
-      <li>Comparing different repository or policy pages</li>
-      <li>Exploring a real case study or scenario</li>
-    </ul>
-  </div>
-
-  <div style="background:#bb98dc; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
-    <strong>Practice</strong> — learning by trying and doing
-    <ul style="margin:0.5rem 0 0 1.2rem; padding:0;">
-      <li>Completing a short hands‑on task</li>
-      <li>Applying a rule or method to a real example</li>
-      <li>Renaming a dataset or drafting metadata</li>
-      <li>Using a tool or interface with guidance</li>
-    </ul>
-  </div>
-
-  <div style="background:#bdea75; padding:0.8rem; border-radius:4px;">
-    <strong>Production</strong> — learning by creating something
-    <ul style="margin:0.5rem 0 0 1.2rem; padding:0;">
-      <li>Drafting a mini‑DMP or template</li>
-      <li>Creating a folder structure or README file</li>
-      <li>Producing a short checklist or summary output</li>
-      <li>Developing a small practice artefact to apply the learning</li>
-    </ul>
-  </div>
-
-</div>
