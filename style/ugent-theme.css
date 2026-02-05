@@ -148,7 +148,7 @@ pre, code {
 }
 
 table th {
-    background: var(--ugent-blue);
+    background: var(--ugent-blue) !important;
     color: white;
 }
 table td {
