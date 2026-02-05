@@ -147,6 +147,12 @@ pre, code {
     border-radius: 4px;
 }
 
+table tr:first-child td {
+    background-color: var(--ugent-blue) !important;
+    color: white !important;
+    font-weight: bold;
+}
+
 table th {
     background: var(--ugent-blue) !important;
     color: black;
