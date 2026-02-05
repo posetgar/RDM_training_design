@@ -401,7 +401,7 @@ This exercise helps you translate a broad training need into a clearer, structur
 - **Think visually and collaboratively:**  
   Use the post‑its to capture ideas quickly. You can refine them later. Aim for clarity, not perfection.
 
-  ## The learner's journey
+## The learner's journey
 
 Once you have completed your initial training analysis (goals, audience, outcomes), we can move to the ABC Learning Design and outline the learner’s journey.
 This is done through storyboarding: mapping out how learners progress through the session and which types of activities you will use at each moment.
@@ -411,35 +411,64 @@ ABC uses six learning types to help you structure the journey. These represent d
 <h3>ABC Learning Types and example activities</h3>
 <div style="border:1px solid #ddd; padding:1rem; border-radius:6px;">
 
-  <div style="background:#a1f5ed; padding:0.6rem; margin-bottom:0.5rem; border-radius:4px;">
+  <div style="background:#a1f5ed; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
     <strong>Acquisition</strong> — learning by receiving information  
-    <span style="float:right; font-size:0.85rem; opacity:0.7;">#a1f5ed</span>
+    <ul>
+      <li>Short mini‑lecture introducing a topic</li>
+      <li>Demonstration of a workflow or tool</li>
+      <li>Reading a short policy excerpt or webpage</li>
+      <li>Watching a brief explainer video</li>
+    </ul>
   </div>
 
-  <div style="background:#ffd966; padding:0.6rem; margin-bottom:0.5rem; border-radius:4px;">
+  <div style="background:#ffd966; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
     <strong>Collaboration</strong> — learning by working together  
-    <span style="float:right; font-size:0.85rem; opacity:0.7;">#ffd966</span>
+    <ul>
+      <li>Co‑creating a checklist or template in small groups</li>
+      <li>Group brainstorming on a Miro board</li>
+      <li>Joint problem‑solving tasks</li>
+      <li>Reviewing and improving another group's output</li>
+    </ul>
   </div>
 
-  <div style="background:#7aaeea; padding:0.6rem; margin-bottom:0.5rem; border-radius:4px;">
+  <div style="background:#7aaeea; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
     <strong>Discussion</strong> — learning through dialogue  
-    <span style="float:right; font-size:0.85rem; opacity:0.7;">#7aaeea</span>
+    <ul>
+      <li>Think–pair–share discussion prompts</li>
+      <li>Short breakout‑room debates</li>
+      <li>Whole‑class Q&A or reflection</li>
+      <li>Forum‑style asynchronous exchanges</li>
+    </ul>
   </div>
 
-  <div style="background:#f8807f; padding:0.6rem; margin-bottom:0.5rem; border-radius:4px;">
+  <div style="background:#f8807f; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
     <strong>Investigation</strong> — learning through exploration  
-    <span style="float:right; font-size:0.85rem; opacity:0.7;">#f8807f</span>
+    <ul>
+      <li>Analysing example datasets or documentation</li>
+      <li>Searching for information using curated links</li>
+      <li>Comparing different repository or policy pages</li>
+      <li>Exploring a real case study or scenario</li>
+    </ul>
   </div>
 
-  <div style="background:#bb98dc; padding:0.6rem; margin-bottom:0.5rem; border-radius:4px;">
+  <div style="background:#bb98dc; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
     <strong>Practice</strong> — learning by trying and doing  
-    <span style="float:right; font-size:0.85rem; opacity:0.7;">#bb98dc</span>
+    <ul>
+      <li>Completing a short hands‑on task</li>
+      <li>Applying a rule or method to a real example</li>
+      <li>Renaming a dataset or drafting metadata</li>
+      <li>Using a tool or interface with guidance</li>
+    </ul>
   </div>
 
-  <div style="background:#bdea75; padding:0.6rem; border-radius:4px;">
+  <div style="background:#bdea75; padding:0.8rem; border-radius:4px;">
     <strong>Production</strong> — learning by creating something  
-    <span style="float:right; font-size:0.85rem; opacity:0.7;">#bdea75</span>
+    <ul>
+      <li>Drafting a mini‑DMP or template</li>
+      <li>Creating a folder structure or README file</li>
+      <li>Producing a short checklist or summary output</li>
+      <li>Developing a small practice artefact to apply the learning</li>
+    </ul>
   </div>
 
 </div>
-``
