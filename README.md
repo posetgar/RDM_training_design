@@ -226,7 +226,7 @@ ABC is designed for short, fast-paced planning workshops. You can outline an ent
 <details>
   <summary><strong>You don’t need a pedagogical background</strong></summary>
 
-The model uses simple, intuitive activity types. This makes it accessible for RDM professionals who design training but aren’t formal educators.
+The model uses simple, intuitive activity types. This makes it accessible for RDM professionals who design training but might not be formal educators.
 
 </details>
 
@@ -299,6 +299,15 @@ Bloom’s levels go from basic to advanced cognitive activities:
 - Evaluate: assess, justify, critique
 - Create: design, develop, construct
 
+| Bloom level | Useful action verbs (shortlist) | Weak outcome | Improved outcome | Why better (SMARTIE) |
+|-------------|----------------------------------|--------------|------------------|-----------------------|
+| **Remember** | cite, define, describe, identify, list, recall | “Learners will understand what a DMP is.” | “Learners can **identify** the mandatory sections of a data management plan.” | **Specific** (mandatory sections); **Measurable** verb; **Achievable** in a short lesson; **Relevant** to all researchers. |
+| **Understand** | classify, compare, describe, discuss, explain, summarize | “Learners will know why file naming matters.” | “Learners can **explain** two reasons why consistent file naming improves research workflow.” | **Specific** (two reasons); **Measurable** explanation; **Inclusive**—no prior experience needed. |
+| **Apply** | apply, choose, demonstrate, implement, organize, use | “Participants will learn about backup options.” | “Participants can **apply** the 3‑2‑1 rule to propose a backup strategy for a simple research scenario.” | **Relevant** (resembles real cases); **Measurable**; **Achievable** using a scenario. |
+| **Analyze** | analyze, categorize, compare, differentiate, distinguish, examine | “Learners will understand sensitive data.” | “Learners can **distinguish** between personal, sensitive, and non‑sensitive data in short examples.” | **Specific** categories; **Measurable** distinctions; **Equitable**—uses examples rather than prior experience. |
+| **Evaluate** | assess, critique, decide, evaluate, justify, recommend | “Learners will know which repository to use.” | “Learners can **evaluate** three repository options and **justify** which one best fits a given dataset.” | **Measurable** via justification; **Relevant** to real tasks; **Time‑limited** (three options). |
+| **Create** | create, design, develop, produce, revise, write | “Learners will appreciate good documentation.” | “Learners can **create** a simple folder structure and README file for a sample dataset.” | **Specific** product; **Achievable** in session; **Equitable** because the dataset is provided. |
+
 Avoid vague verbs like “know”, “learn about”, “understand”, which are hard to measure.
 
 <h4>Practice: re-write poorly written learning outcomes</h4>
@@ -306,7 +315,7 @@ Below you see a poorly written learning outcome, followed by a better version wi
 
 <h5>Data management plans</h5>
 - Learners will understand DMPs.
-- By the end of this session, you will be able to [[(identify)|know|memorize]] the key components of a [[(data management plan)|data marketing plan|document management policy]].
+- By the end of this session, you will be able to [[(identify)|know|memorize]] the key components of a Data Management Plan.
 
 <h5>Senstitive data awareness</h5>
 - Learners will appreciate data sensitivity.
