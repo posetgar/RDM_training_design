@@ -291,54 +291,7 @@ Learning outcomes should be:
 - **E**quitable – fair regardless of background or prior experience
 
 <h3>Use Bloom's Taxonomy to choose strong action verbs</h3>
-Choosing the right verb is essential because it signals what learners will actually do to demonstrate learning. Vague verbs like “know”, “learn about”, or “understand” are hard to measure and don’t guide activity design. Bloom’s Taxonomy helps you select clear, observable verbs that match different levels of thinking—from simple recall to more complex tasks like evaluating options or creating new outputs. Below you’ll find the Bloom levels in order, each with verbs that help you write precise, measurable learning outcomes.
-
-<div class="ugent-box ugent-example">
-<h4>Remember: recognizing and recalling facts</h4>
-<p>**Useful action verbs**: cite, define, describe, identify, list, recall.</p>
-<p>Weak outcome: "*Learners will understand what a DMP is*".</p>
-<p>**Improved outcome**: "*Learners can **identify** the mandatory sections of a data management plan*". This outcome works better because it is: **S**pecific (mandatory sections); **M**easurable verb; **A**chievable in a short lesson; **R**elevant to all researchers</p>
-</div>
-
-<div class="ugent-box ugent-example">
-<h4>Understand what the facts mean</h4>
-<p>**Useful action verbs**: classify, compare, describe, discuss, explain, summarize.</p>
-<p>Weak outcome: "*Learners will know why file naming matters*".</p>
-<p>**Improved outcome**: "*Learners can **explain** two reasons why consistent file naming improves research workflow*".  
-This outcome is: **S**pecific (two reasons); **M**easurable explanation; **I**nclusive — no prior technical experience needed.</p>
-</div>
-
-<div class="ugent-box ugent-example">
-<h4>Apply the facts, rules and ideas</h4>
-<p>**Useful action verbs**: apply, choose, demonstrate, implement, organize, use.</p>
-<p>Weak outcome: "*Participants will learn about backup options*".</p>
-<p>**Improved outcome**: "*Participants can **apply** the 3‑2‑1 rule to propose a backup strategy for a simple research scenario*".  
-This outcome is: **R**elevant (realistic scenario); **M**easurable (proposed strategy); **A**chievable in class.</p>
-</div>
-
-<div class="ugent-box ugent-example">
-<h4>Analyze: recognizing and recalling facts</h4>
-<p>**Useful action verbs**: analyze, categorize, compare, differentiate, distinguish, examine.</p>
-<p>Weak outcome: "*Learners will understand why documentation is important*".</p>
-<p>**Improved outcome**: "*Learners can **compare** two datasets with different levels of documentation quality and **examine** how this affects their reusability*".  
-This outcome is: **S**pecific (two datasets); **M**easurable (differences identified); **E**quitable because datasets are provided.</p>
-</div>
-
-<div class="ugent-box ugent-example">
-<h4>Evaluate: judging the value of information or ideas</h4>
-<p>**Useful action verbs**: assess, critique, decide, evaluate, justify, recommend.</p>
-<p>Weak outcome: "*Learners will know which repository to use*".</p>
-<p>**Improved outcome**: "*Learners can **evaluate** three repository options and **justify** which one best fits a given dataset*".  
-This outcome is: **M**easurable via justification; **R**elevant to real research workflows; **T**ime‑limited (three options).</p>
-</div>
-
-<div class="ugent-box ugent-example">
-<h4>Create: combining parts to make a new whole</h4>
-<p>**Useful action verbs**: create, design, develop, produce, revise, write.</p>
-<p>Weak outcome: "*Learners will learn how to make data FAIR*".</p>
-<p>**Improved outcome**: "*Learners can **design** a short FAIR‑improvement plan for a dataset, including at least two concrete actions for ‘Findable’ or ‘Reusable’*".  
-This outcome is: **S**pecific (concrete actions); **M**easurable (two improvements); **R**elevant to real data‑sharing workflows.</p>
-</div>
+Choosing the right verb is essential because it signals what learners will actually do to demonstrate learning. Vague verbs like “know”, “learn about”, or “understand” are hard to measure and don’t guide activity design. Bloom’s Taxonomy helps you select clear, observable verbs that match different levels of cognition: from simple recall to more complex tasks like evaluating options or creating new outputs. Below you’ll find the Bloom levels in order, with verbs that will help you to write precise, measurable learning outcomes.
 
 <details>
   <summary><strong>Remember: recognizing and recalling facts</strong></summary>
@@ -377,7 +330,7 @@ This outcome is: **R**elevant (realistic scenario); **M**easurable (proposed str
 
 <p>**Useful action verbs**: analyze, categorize, compare, differentiate, distinguish, examine.</p>
 <p>Weak outcome: "*Learners will understand why documentation is important*".</p>
-<p>**Improved outcome**: "*Learners can **compare** two datasets with different levels of documentation quality and **examine** how this affects their reusability*".  
+<p>**Improved outcome**: "*Learners can **compare** two datasets with different levels of documentation quality and **explain** how this affects their reusability*".  
 This outcome is: **S**pecific (two datasets); **M**easurable (differences identified); **E**quitable because datasets are provided.</p>
 
 </details>
@@ -403,30 +356,6 @@ This outcome is: **M**easurable via justification; **R**elevant to real research
 This outcome is: **S**pecific (concrete actions); **M**easurable (two improvements); **R**elevant to real data‑sharing workflows.</p>
 
 </details>
-``
-
-<h4>Practice: re-write poorly written learning outcomes</h4>
-Below you see a poorly written learning outcome, followed by a better version with missing words. Choose the correct terms from the dropdown(s).
-
-<h5>Data management plans</h5>
-- Learners will understand DMPs.
-- By the end of this session, you will be able to [[(identify)|know|memorize]] the key components of a Data Management Plan.
-
-<h5>Senstitive data awareness</h5>
-- Learners will appreciate data sensitivity.
-- By the end of this session, you will be able to [[(explain)|note|list]] when data is considered sensitive and [[(justify)|imagine|assume]] the additional protections it requires.
-
-<h5>Data repositories</h5>
-- Participants will learn about data repositories.
-- By the end of this training, you will be able to [[(compare)|remember|observe]] repository options and [[(select)|speculate|guess]] one that fits a given scenario.
-
-<h5>FAIR assessment</h5>
-- Participants will understand FAIR.
-- By the end of the workshop, you will be able to [[(evaluate)|mention|copy]] a dataset against the FAIR principles and [[(recommend)|outline|speculate]] one improvement.
-
-<h5>Licensing for data sharing</h5>
-- Learners will know about licenses.
-- By the end of this session, you will be able to [[(choose)|observe|remember]] an appropriate license for sharing a dataset and [[(justify)|describe|assume]] your choice.
 
 <br>
 <h3>References</h3>
