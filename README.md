@@ -217,33 +217,33 @@ In the previous module, you were introduced to the [ABC Learning Design method](
 <h4> Why use the ABC for RDM training design? </h4>
 
 <details>
-  <summary>It gives quick, flexible visual results</summary>
-  
-  ABC is designed for short, fast-paced planning workshops. You can outline an entire session in under an hour. The card-based, storyboard-like process produces a clear session outline immediately. This makes it easy to share with colleagues, adjust, and reuse.
-  
+  <summary><strong>It gives quick, flexible visual results</strong></summary>
+
+ABC is designed for short, fast-paced planning workshops. You can outline an entire session in under an hour. The card-based, storyboard-like process produces a clear session outline immediately. This makes it easy to share with colleagues, adjust, and reuse.
+
 </details>
-  
+
 <details>
-  <summary>You don’t need a pedagogical background</summary>
-    
+  <summary><strong>You don’t need a pedagogical background</strong></summary>
+
 The model uses simple, intuitive activity types. This makes it accessible for RDM professionals who design training but aren’t formal educators.
-    
+
 </details>
-    
+
 <details>
-  <summary>It supports learner‑centred design</summary>
+  <summary><strong>It supports learner‑centred design</strong></summary>
 
 ABC focuses on what learners do, not just on what trainers deliver. This helps make RDM training more engaging and relevant, even when time with learners is limited.
-      
+
 </details>
-      
+
 <details>
-   <summary>It encourages diversity in learning activities</summary>
-        
+   <summary><strong>It encourages diversity in learning activities</strong></summary>
+
 The model uses simple, intuitive activity types. This makes it accessible for RDM professionals who design training but aren’t formal educators.
-        
+
 </details>
-        
+
 <br>
 
 <h3>What comes next</h3>
