@@ -400,3 +400,46 @@ This exercise helps you translate a broad training need into a clearer, structur
 
 - **Think visually and collaboratively:**  
   Use the post‑its to capture ideas quickly. You can refine them later. Aim for clarity, not perfection.
+
+  ## The learner's journey
+
+Once you have completed your initial training analysis (goals, audience, outcomes), we can move to the ABC Learning Design and outline the learner’s journey.
+This is done through storyboarding: mapping out how learners progress through the session and which types of activities you will use at each moment.
+
+ABC uses six learning types to help you structure the journey. These represent different ways learners engage with content and with each other. By combining them, you create a balanced and engaging learning experience.
+
+<h3>ABC Learning Types and example activities</h3>
+<div style="border:1px solid #ddd; padding:1rem; border-radius:6px;">
+
+  <div style="background:#a1f5ed; padding:0.6rem; margin-bottom:0.5rem; border-radius:4px;">
+    <strong>Acquisition</strong> — learning by receiving information  
+    <span style="float:right; font-size:0.85rem; opacity:0.7;">#a1f5ed</span>
+  </div>
+
+  <div style="background:#ffd966; padding:0.6rem; margin-bottom:0.5rem; border-radius:4px;">
+    <strong>Collaboration</strong> — learning by working together  
+    <span style="float:right; font-size:0.85rem; opacity:0.7;">#ffd966</span>
+  </div>
+
+  <div style="background:#7aaeea; padding:0.6rem; margin-bottom:0.5rem; border-radius:4px;">
+    <strong>Discussion</strong> — learning through dialogue  
+    <span style="float:right; font-size:0.85rem; opacity:0.7;">#7aaeea</span>
+  </div>
+
+  <div style="background:#f8807f; padding:0.6rem; margin-bottom:0.5rem; border-radius:4px;">
+    <strong>Investigation</strong> — learning through exploration  
+    <span style="float:right; font-size:0.85rem; opacity:0.7;">#f8807f</span>
+  </div>
+
+  <div style="background:#bb98dc; padding:0.6rem; margin-bottom:0.5rem; border-radius:4px;">
+    <strong>Practice</strong> — learning by trying and doing  
+    <span style="float:right; font-size:0.85rem; opacity:0.7;">#bb98dc</span>
+  </div>
+
+  <div style="background:#bdea75; padding:0.6rem; border-radius:4px;">
+    <strong>Production</strong> — learning by creating something  
+    <span style="float:right; font-size:0.85rem; opacity:0.7;">#bdea75</span>
+  </div>
+
+</div>
+``
