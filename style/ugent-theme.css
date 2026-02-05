@@ -149,7 +149,7 @@ pre, code {
 
 table th {
     background: var(--ugent-blue) !important;
-    color: white;
+    color: black;
 }
 table td {
     border: 1px solid var(--ugent-grey-mid);
