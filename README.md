@@ -291,33 +291,54 @@ Learning outcomes should be:
 - **E**quitable – fair regardless of background or prior experience
 
 <h4>Use Bloom's Taxonomy to choose strong action verbs</h4>
-Avoid vague verbs like “know”, “learn about”, “understand”, which are hard to measure. Bloom’s levels go from basic to advanced cognitive activities:
+Choosing the right verb is essential because it signals what learners will actually do to demonstrate learning. Vague verbs like “know”, “learn about”, or “understand” are hard to measure and don’t guide activity design. Bloom’s Taxonomy helps you select clear, observable verbs that match different levels of thinking—from simple recall to more complex tasks like evaluating options or creating new outputs. Below you’ll find the Bloom levels in order, each with verbs that help you write precise, measurable learning outcomes.
 
 <div class="ugent-box ugent-example">
-<h3>Remember</h3>
+<h3>Remember: recognizing and recalling facts</h3>
 <p>**Useful action verbs**: cite, define, describe, identify, list, recall.</p>
-<p>**Example**: "*Learners will understand what a DMP is*" vs. "*Learners can **identify** the mandatory sections of a data management plan*".</p>
-<p>**SMARTIE**: **S**pecific (mandatory sections); **M**easurable verb; **A**chievable in a short lesson; **R**elevant to all researchers.</p>
+<p>**Weak outcome**: "*Learners will understand what a DMP is*".</p>
+<p>**Improved outcome**: "*Learners can **identify** the mandatory sections of a data management plan*". This outcome works better because it is: **S**pecific (mandatory sections); **M**easurable verb; **A**chievable in a short lesson; **R**elevant to all researchers</p>
 </div>
 
-When planning training, you’ll often see the terms goals, objectives, and learning outcomes used. Sometimes the terms overlap or are even interchanged — especially objectives and outcomes. To keep things practical and usable, in this module we focus mainly on goals and outcomes: they may sound similar, but they serve different purposes.</p>
+<div class="ugent-box ugent-example">
+<h3>Understand what the facts mean</h3>
+<p>**Useful action verbs**: classify, compare, describe, discuss, explain, summarize.</p>
+<p>**Weak outcome**: "*Learners will know why file naming matters*".</p>
+<p>**Improved outcome**: "*Learners can **explain** two reasons why consistent file naming improves research workflow*".  
+This outcome is: **S**pecific (two reasons); **M**easurable explanation; **I**nclusive — no prior technical experience needed.</p>
+</div>
 
-- Remember: list, identify, define
-- Understand: explain, describe, summarise
-- Apply: use, implement, demonstrate
-- Analyze: compare, distinguish, examine
-- Evaluate: assess, justify, critique
-- Create: design, develop, construct
+<div class="ugent-box ugent-example">
+<h3>Apply the facts, rules and ideas</h3>
+<p>**Useful action verbs**: apply, choose, demonstrate, implement, organize, use.</p>
+<p>**Weak outcome**: "*Participants will learn about backup options*".</p>
+<p>**Improved outcome**: "*Participants can **apply** the 3‑2‑1 rule to propose a backup strategy for a simple research scenario*".  
+This outcome is: **R**elevant (realistic scenario); **M**easurable (proposed strategy); **A**chievable in class.</p>
+</div>
 
-| Bloom level | Useful action verbs | Weak outcome | Improved outcome | Why better (SMARTIE) |
-|-------------|----------------------------------|--------------|------------------|-----------------------|
-| **Remember** | cite, define, describe, identify, list, recall | “Learners will understand what a DMP is.” | “Learners can **identify** the mandatory sections of a data management plan.” | **S**pecific (mandatory sections); **M**easurable verb; **A**chievable in a short lesson; **R**elevant to all researchers. |
-| **Understand** | classify, compare, describe, discuss, explain, summarize | “Learners will know why file naming matters.” | “Learners can **explain** two reasons why consistent file naming improves research workflow.” | **S**pecific (two reasons); **M**easurable explanation; **I**nclusive—no prior experience needed. |
-| **Apply** | apply, choose, demonstrate, implement, organize, use | “Participants will learn about backup options.” | “Participants can **apply** the 3‑2‑1 rule to propose a backup strategy for a simple research scenario.” | **R**elevant (resembles real cases); **M**easurable; **A**chievable using a scenario. |
-| **Analyze** | analyze, categorize, compare, differentiate, distinguish, examine | Learners will understand why documentation is important.” | Learners can **compare** two datasets with different levels of documentation quality and **explain** how this affects their reusability.” | **S**pecific comparison task; **M**easurable differences in reusability. |
-| **Evaluate** | assess, critique, decide, evaluate, justify, recommend | “Learners will know which repository to use.” | “Learners can **evaluate** three repository options and **justify** which one best fits a given dataset.” | **M**easurable via justification; **R**elevant to real tasks; **T**ime‑limited (three options). |
-| **Create** | create, design, develop, produce, revise, write | “Learners will learn how to make data FAIR.” | “Learners can **design** a short FAIR‑improvement plan for a dataset, including at least two concrete actions for ‘Findable’ or ‘Reusable’.” | **S**pecific output; **M**easurable (two actions); **R**elevant to real workflows. |
+<div class="ugent-box ugent-example">
+<h3>Analyze: recognizing and recalling facts</h3>
+<p>**Useful action verbs**: analyze, categorize, compare, differentiate, distinguish, examine.</p>
+<p>**Weak outcome**: "*Learners will understand why documentation is important*".</p>
+<p>**Improved outcome**: "*Learners can **compare** two datasets with different levels of documentation quality and **examine** how this affects their reusability*".  
+This outcome is: **S**pecific (two datasets); **M**easurable (differences identified); **E**quitable because datasets are provided.</p>
+</div>
 
+<div class="ugent-box ugent-example">
+<h3>Evaluate: judging the value of information or ideas</h3>
+<p>**Useful action verbs**: assess, critique, decide, evaluate, justify, recommend.</p>
+<p>**Weak outcome**: "*Learners will know which repository to use*".</p>
+<p>**Improved outcome**: "*Learners can **evaluate** three repository options and **justify** which one best fits a given dataset*".  
+This outcome is: **M**easurable via justification; **R**elevant to real research workflows; **T**ime‑limited (three options).</p>
+</div>
+
+<div class="ugent-box ugent-example">
+<h3>Create: combining parts to make a new whole</h3>
+<p>**Useful action verbs**: create, design, develop, produce, revise, write.</p>
+<p>**Weak outcome**: "*Learners will learn how to make data FAIR*".</p>
+<p>**Improved outcome**: "*Learners can **design** a short FAIR‑improvement plan for a dataset, including at least two concrete actions for ‘Findable’ or ‘Reusable’*".  
+This outcome is: **S**pecific (concrete actions); **M**easurable (two improvements); **R**elevant to real data‑sharing workflows.</p>
+</div>
 
 
 <h4>Practice: re-write poorly written learning outcomes</h4>
