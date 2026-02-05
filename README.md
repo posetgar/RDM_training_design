@@ -276,8 +276,8 @@ This information feeds directly into ABC storyboarding later on: clearer goals a
 <p>Learning outcomes describe the specific, observable things learners should be able to do after completing the training. They are observable behaviours or skills that show the training has worked. Examples: "“Participants can choose an appropriate repository for their data", “Participants can recognise when personal or sensitive data requires extra protection”.</p>
 </div>
 
-<br>
-<h3>Writing good learning outcomes</h3>
+
+### Writing good learning outcomes
 Good learning outcomes help you design focused, measurable training. They guide your choice of activities in the ABC model and help you evaluate whether the training worked.
 
 <h4>Use the SMARTIE framework</h4>
@@ -291,7 +291,17 @@ Learning outcomes should be:
 - **E**quitable – fair regardless of background or prior experience
 
 <h4>Use Bloom's Taxonomy to choose strong action verbs</h4>
-Bloom’s levels go from basic to advanced cognitive activities:
+Avoid vague verbs like “know”, “learn about”, “understand”, which are hard to measure. Bloom’s levels go from basic to advanced cognitive activities:
+
+<div class="ugent-box ugent-example">
+<h3>Remember</h3>
+<p>**Useful action verbs**: cite, define, describe, identify, list, recall.</p>
+<p>**Example**: "*Learners will understand what a DMP is*" vs. "*Learners can **identify** the mandatory sections of a data management plan*".</p>
+<p>**SMARTIE**: **S**pecific (mandatory sections); **M**easurable verb; **A**chievable in a short lesson; **R**elevant to all researchers.</p>
+</div>
+
+When planning training, you’ll often see the terms goals, objectives, and learning outcomes used. Sometimes the terms overlap or are even interchanged — especially objectives and outcomes. To keep things practical and usable, in this module we focus mainly on goals and outcomes: they may sound similar, but they serve different purposes.</p>
+
 - Remember: list, identify, define
 - Understand: explain, describe, summarise
 - Apply: use, implement, demonstrate
@@ -299,16 +309,16 @@ Bloom’s levels go from basic to advanced cognitive activities:
 - Evaluate: assess, justify, critique
 - Create: design, develop, construct
 
-| Bloom level | Useful action verbs (shortlist) | Weak outcome | Improved outcome | Why better (SMARTIE) |
+| Bloom level | Useful action verbs | Weak outcome | Improved outcome | Why better (SMARTIE) |
 |-------------|----------------------------------|--------------|------------------|-----------------------|
-| **Remember** | cite, define, describe, identify, list, recall | “Learners will understand what a DMP is.” | “Learners can **identify** the mandatory sections of a data management plan.” | **Specific** (mandatory sections); **Measurable** verb; **Achievable** in a short lesson; **Relevant** to all researchers. |
-| **Understand** | classify, compare, describe, discuss, explain, summarize | “Learners will know why file naming matters.” | “Learners can **explain** two reasons why consistent file naming improves research workflow.” | **Specific** (two reasons); **Measurable** explanation; **Inclusive**—no prior experience needed. |
-| **Apply** | apply, choose, demonstrate, implement, organize, use | “Participants will learn about backup options.” | “Participants can **apply** the 3‑2‑1 rule to propose a backup strategy for a simple research scenario.” | **Relevant** (resembles real cases); **Measurable**; **Achievable** using a scenario. |
-| **Analyze** | analyze, categorize, compare, differentiate, distinguish, examine | “Learners will understand sensitive data.” | “Learners can **distinguish** between personal, sensitive, and non‑sensitive data in short examples.” | **Specific** categories; **Measurable** distinctions; **Equitable**—uses examples rather than prior experience. |
-| **Evaluate** | assess, critique, decide, evaluate, justify, recommend | “Learners will know which repository to use.” | “Learners can **evaluate** three repository options and **justify** which one best fits a given dataset.” | **Measurable** via justification; **Relevant** to real tasks; **Time‑limited** (three options). |
-| **Create** | create, design, develop, produce, revise, write | “Learners will appreciate good documentation.” | “Learners can **create** a simple folder structure and README file for a sample dataset.” | **Specific** product; **Achievable** in session; **Equitable** because the dataset is provided. |
+| **Remember** | cite, define, describe, identify, list, recall | “Learners will understand what a DMP is.” | “Learners can **identify** the mandatory sections of a data management plan.” | **S**pecific (mandatory sections); **M**easurable verb; **A**chievable in a short lesson; **R**elevant to all researchers. |
+| **Understand** | classify, compare, describe, discuss, explain, summarize | “Learners will know why file naming matters.” | “Learners can **explain** two reasons why consistent file naming improves research workflow.” | **S**pecific (two reasons); **M**easurable explanation; **I**nclusive—no prior experience needed. |
+| **Apply** | apply, choose, demonstrate, implement, organize, use | “Participants will learn about backup options.” | “Participants can **apply** the 3‑2‑1 rule to propose a backup strategy for a simple research scenario.” | **R**elevant (resembles real cases); **M**easurable; **A**chievable using a scenario. |
+| **Analyze** | analyze, categorize, compare, differentiate, distinguish, examine | Learners will understand why documentation is important.” | Learners can **compare** two datasets with different levels of documentation quality and **explain** how this affects their reusability.” | **S**pecific comparison task; **M**easurable differences in reusability. |
+| **Evaluate** | assess, critique, decide, evaluate, justify, recommend | “Learners will know which repository to use.” | “Learners can **evaluate** three repository options and **justify** which one best fits a given dataset.” | **M**easurable via justification; **R**elevant to real tasks; **T**ime‑limited (three options). |
+| **Create** | create, design, develop, produce, revise, write | “Learners will learn how to make data FAIR.” | “Learners can **design** a short FAIR‑improvement plan for a dataset, including at least two concrete actions for ‘Findable’ or ‘Reusable’.” | **S**pecific output; **M**easurable (two actions); **R**elevant to real workflows. |
 
-Avoid vague verbs like “know”, “learn about”, “understand”, which are hard to measure.
+
 
 <h4>Practice: re-write poorly written learning outcomes</h4>
 Below you see a poorly written learning outcome, followed by a better version with missing words. Choose the correct terms from the dropdown(s).
