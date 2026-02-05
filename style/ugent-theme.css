@@ -139,9 +139,12 @@ button.lia-btn {
     color: black !important;
 }
 
+
+
 /* ===========================================================
    Code & Tables
    =========================================================== */
+
 pre, code {
     background: var(--ugent-grey-mid) !important;
     border-radius: 4px;
@@ -161,6 +164,12 @@ table td {
     border: 1px solid var(--ugent-grey-mid);
 }
 
+/* UGent: style LiaScript table headers */
+.lia-table thead th.lia-table__header {
+    background-color: var(--ugent-blue) !important;
+    color: white !important;
+    font-weight: bold;
+}
 
 /* ===========================================================
    Summaries
