@@ -188,7 +188,7 @@ These steps appear in many instructional design models. One of the most well‑k
 
 <h3> Why use a model? </h3>
 
-A training design model helps you:
+A training design model helps you to:
 
 - **Stay focused** on the purpose of the training.
 - **Ensure alignment** between learning needs, outcomes, methods, and assessments.
@@ -240,7 +240,7 @@ ABC focuses on what learners do, not just on what trainers deliver. This helps m
 <details>
    <summary><strong>It encourages diversity in learning activities</strong></summary>
 
-The model uses simple, intuitive activity types. This makes it accessible for RDM professionals who design training but aren’t formal educators.
+Because each activity type has its own colour and format, it gives you an instant visual impression of your session. You can immediately see if your plan relies too heavily on one activity type (e.g. mostly Acquisition), and adjust to create a more balanced, varied learning experience.
 
 </details>
 
@@ -248,7 +248,7 @@ The model uses simple, intuitive activity types. This makes it accessible for RD
 
 <h3>What comes next</h3>
         
-In the next part of the course, we will explore the first two stages of the training design cycle (*Analysis* and *Design*), which are covered by the ABC model, and apply these steps to develop your own training concept.
+In the next part of the course, we will explore the first two stages of the training design cycle (*Analysis* and *Design*) and apply these steps to develop your own training concept.
         
 
 ## Initial training analysis
@@ -415,80 +415,46 @@ ABC uses six learning types to help you structure the journey. These represent d
   <!-- Acquisition -->
   <div style="background:#a1f5ed; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
     <strong>Acquisition</strong> — learning by receiving information
-    <p><em>Conventional method:</em></p>
     <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
-      <li>Reading books, papers</li>
-      <li>Listening to teacher presentations or lectures</li>
-      <li>Watching demonstrations or master classes</li>
-    </ul>
-    <p><em>Digital technology:</em></p>
-    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
-      <li>Reading multimedia, websites, digital documents</li>
-      <li>Listening to podcasts or webcasts</li>
-      <li>Watching animations or videos</li>
+      <li>Reading books, papers, web pages, (digital) documents</li>
+      <li>Listening to teacher presentations or lectures, podcasts</li>
+      <li>Watching demonstrations, animations, videos</li>
     </ul>
   </div>
 
   <!-- Collaboration -->
   <div style="background:#ffd966; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
     <strong>Collaboration</strong> — learning by working together
-    <p><em>Conventional method:</em></p>
     <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
       <li>Small group projects</li>
       <li>Discussing others’ outputs</li>
       <li>Building joint outputs</li>
-    </ul>
-    <p><em>Digital technology:</em></p>
-    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
-      <li>Group projects using forums, wikis, chat rooms</li>
-      <li>Building a joint digital output</li>
     </ul>
   </div>
 
   <!-- Discussion -->
   <div style="background:#7aaeea; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
     <strong>Discussion</strong> — learning through dialogue
-    <p><em>Conventional method:</em></p>
     <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
-      <li>Tutorials</li>
-      <li>Seminars</li>
-      <li>Discussion groups</li>
-      <li>Class discussions</li>
-    </ul>
-    <p><em>Digital technology:</em></p>
-    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
-      <li>Online tutorials or seminars</li>
-      <li>Email‑based discussions</li>
-      <li>Online discussion groups or forums</li>
-      <li>Web‑conferencing tools (synchronous or asynchronous)</li>
+      <li>Tutorials, seminars</li>
+      <li>Group or class discussions</li>
     </ul>
   </div>
 
   <!-- Investigation -->
   <div style="background:#f8807f; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
     <strong>Investigation</strong> — learning through exploration
-    <p><em>Conventional method:</em></p>
     <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
-      <li>Using text‑based study guides</li>
       <li>Analysing ideas or information in various materials</li>
       <li>Collecting and analysing data</li>
       <li>Comparing texts</li>
       <li>Searching and evaluating information</li>
-    </ul>
-    <p><em>Digital technology:</em></p>
-    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
-      <li>Using online advice and guidance</li>
-      <li>Analysing digital resources</li>
-      <li>Using digital tools to collect and analyse data</li>
-      <li>Comparing digital texts</li>
-      <li>Using digital tools for searching and evaluating information</li>
     </ul>
   </div>
 
   <!-- Practice -->
   <div style="background:#bb98dc; padding:0.8rem; margin-bottom:0.6rem; border-radius:4px;">
     <strong>Practice</strong> — learning by trying and doing
-    <p><em>Conventional method:</em></p>
     <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
       <li>Practice exercises</li>
       <li>Practice‑based projects</li>
@@ -496,33 +462,14 @@ ABC uses six learning types to help you structure the journey. These represent d
       <li>Field trips</li>
       <li>Role‑play activities</li>
     </ul>
-    <p><em>Digital technology:</em></p>
-    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
-      <li>Using models and simulations</li>
-      <li>Microworlds</li>
-      <li>Virtual labs and field trips</li>
-      <li>Online role‑play</li>
-    </ul>
   </div>
 
   <!-- Production -->
   <div style="background:#bdea75; padding:0.8rem; border-radius:4px;">
     <strong>Production</strong> — learning by creating something
-    <p><em>Conventional method:</em></p>
     <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
-      <li>Statements, essays, reports</li>
-      <li>Accounts or designs</li>
-      <li>Performances or artefacts</li>
-      <li>Animations, models, videos</li>
-    </ul>
-    <p><em>Digital technology:</em></p>
-    <ul style="margin:0.3rem 0 0 1.2rem; padding:0;">
-      <li>Producing and storing digital documents</li>
-      <li>Digital design representations</li>
-      <li>Performances or artefacts in digital form</li>
-      <li>Animations, models, resources</li>
-      <li>Slideshows, photos, videos</li>
-      <li>Blogs, e‑portfolios</li>
+      <li>Writing statements, essays, reports</li>
+      <li>Creating animations, models, videos</li>
     </ul>
   </div>
 
