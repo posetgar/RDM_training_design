@@ -480,8 +480,9 @@ ABC uses six learning types to help you structure the journey. These represent d
 The Doctoral Schools at Ghent University offer a Research Data Management (RDM) training trajectory that helps PhD researchers build practical, discipline‑specific data skills. Learners move through a series of short, interactive activities designed to introduce key RDM concepts and immediately apply them. Below are examples of activities used throughout the course. The materials of the course can be accessed at:
 - Ghent University Data Stewards (2023). Research Data Management: practical course (UGent Doctoral Schools - Transferable skills course). Open Science Framework. https://doi.org/10.17605/OSF.IO/GDQ93
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/posetgar/RDM_training_design/main/assets/DS_learnersJourney.png" style="max-width:100%; height:auto;" />
-
+</p>
 ---
 
 <div style="background:#bdea75; padding:0.8rem; border-radius:4px; margin-bottom:0.6rem;">
@@ -517,9 +518,9 @@ Small‑group classification + short discussion
 **Total:** ~10 minutes
 
 </div>
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/posetgar/RDM_training_design/main/assets/gdpr_identifiers.png" style="max-width:100%; height:auto;" />
-
+</p>
 ---
 
 <div style="background:#7aaeea; padding:0.8rem; border-radius:4px; margin-bottom:0.6rem;">
@@ -536,27 +537,9 @@ Formative discussion
 **Total:** 15–20 minutes
 
 </div>
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/posetgar/RDM_training_design/main/assets/dos_donts_security.png" style="max-width:100%; height:auto;" />
-
----
-
-<div style="background:#7aaeea; padding:0.8rem; border-radius:4px; margin-bottom:0.6rem;">
-
-**Discussion — File name spin wheel**
-
-Using file names collected during a warm‑up quiz, a random name is selected via a spin wheel. Learners guess the file’s content and quickly see why clear, descriptive file names matter.
-
-**Learning outcome:**  
-Learners can explain why meaningful file names support clarity, collaboration, and long‑term reuse.
-
-**Format & duration:**  
-Ice‑breaker + quick reflection  
-**Total:** ~5 minutes
-
-</div>
-
-<img src="https://raw.githubusercontent.com/posetgar/RDM_training_design/main/assets/fileName_spinWheel.png" style="max-width:100%; height:auto;" />
+</p>
 
 ---
 
@@ -574,7 +557,7 @@ Can be run as energizer (stand up/sit down) or online (quiz)
 **Total:** 20–25 minutes
 
 </div>
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/posetgar/RDM_training_design/main/assets/FAIRassessment.png" style="max-width:100%; height:auto;" />
-
+</p>
 ---
