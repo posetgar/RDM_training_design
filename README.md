@@ -481,11 +481,9 @@ The Doctoral Schools at Ghent University offer a Research Data Management (RDM) 
 
 ---
 
-## Production — DMP data summary table
-
 <div style="background:#bdea75; padding:0.8rem; border-radius:4px; margin-bottom:0.6rem;">
 
-**Production — learning by creating something**
+**Production — DMP data summary table**
 
 Learners work with a fictional—but realistic—DMP tailored to their Doctoral Schools cluster. After a short introduction to DMPs and DMPonline.be, groups analyse different research scenarios (e.g., personal data, valorisation‑sensitive work packages) and translate them into the Flemish funder’s required summary table.
 
@@ -504,11 +502,9 @@ Learners can **construct** a complete data summary table from a project descript
 
 ---
 
-## Collaboration — Direct & indirect identifiers, and special categories
-
 <div style="background:#ffd966; padding:0.8rem; border-radius:4px; margin-bottom:0.6rem;">
 
-**Collaboration — learning by working together**
+**Collaboration — Direct & indirect identifiers, and special categories of personal data**
 
 In small groups, learners classify variables on post‑its as direct or indirect identifiers. Afterwards, they discuss which variables fall under special categories of personal data and reflect on re‑identification risks.
 
@@ -525,11 +521,9 @@ Small‑group classification + short discussion
 
 ---
 
-## Discussion — Do’s and Don’ts of data security
-
 <div style="background:#7aaeea; padding:0.8rem; border-radius:4px; margin-bottom:0.6rem;">
 
-**Discussion — learning through dialogue**
+**Discussion — Do’s and Don’ts of data security**
 
 Learners review everyday examples of data storage and security and classify them as good or bad practices. This reinforces core principles and helps surface common risky behaviours.
 
@@ -546,11 +540,9 @@ Formative discussion
 
 ---
 
-## Discussion — File name spin wheel
-
 <div style="background:#7aaeea; padding:0.8rem; border-radius:4px; margin-bottom:0.6rem;">
 
-**Discussion — learning through dialogue**
+**Discussion — File name spin wheel**
 
 Using file names collected during a warm‑up quiz, a random name is selected via a spin wheel. Learners guess the file’s content and quickly see why clear, descriptive file names matter.
 
@@ -567,11 +559,9 @@ Ice‑breaker + quick reflection
 
 ---
 
-## Investigation — Evaluating the FAIRness of data
-
 <div style="background:#f8807f; padding:0.8rem; border-radius:4px; margin-bottom:0.6rem;">
 
-**Investigation — learning through exploration**
+**Investigation — Evaluating the FAIRness of data**
 
 After an introduction to FAIR principles, learners examine three datasets of the same type but with different degrees of FAIRness. Using predefined questions, they evaluate metadata, documentation, repository choice, PIDs, and other FAIR‑related aspects.
 
@@ -588,11 +578,10 @@ Can be run as energizer (stand up/sit down) or online (quiz)
 
 ---
 
-## Production — DMP final evaluation
 
 <div style="background:#bdea75; padding:0.8rem; border-radius:4px; margin-bottom:0.6rem;">
 
-**Production — learning by creating something**
+**Production — DMP final evaluation**
 
 After in‑depth sessions on all DMP sections, groups evaluate one section of the fictional DMP used earlier. Scenarios differ by discipline and may involve personal data, valorisation, or domain‑specific workflows.
 
