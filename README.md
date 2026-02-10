@@ -477,7 +477,8 @@ ABC uses six learning types to help you structure the journey. These represent d
 
 ## Example of a learner's journey
 
-The Doctoral Schools at Ghent University offer a Research Data Management (RDM) training trajectory that helps PhD researchers build practical, discipline‑specific data skills. Learners move through a series of short, interactive activities designed to introduce key RDM concepts and immediately apply them. Below are examples of activities used throughout the course. The materials pf the course can be accessed at: Ghent University Data Stewards (2023). Research Data Management: practical course (UGent Doctoral Schools - Transferable skills course). Open Science Framework. https://doi.org/10.17605/OSF.IO/GDQ93
+The Doctoral Schools at Ghent University offer a Research Data Management (RDM) training trajectory that helps PhD researchers build practical, discipline‑specific data skills. Learners move through a series of short, interactive activities designed to introduce key RDM concepts and immediately apply them. Below are examples of activities used throughout the course. The materials of the course can be accessed at:
+- Ghent University Data Stewards (2023). Research Data Management: practical course (UGent Doctoral Schools - Transferable skills course). Open Science Framework. https://doi.org/10.17605/OSF.IO/GDQ93
 
 <img src="https://raw.githubusercontent.com/posetgar/RDM_training_design/main/assets/DS_learnersJourney.png" style="max-width:100%; height:auto;" />
 
@@ -500,8 +501,6 @@ Learners can construct a complete data summary table from a project description 
 
 </div>
 
-*Image placeholder — insert here*
-
 ---
 
 <div style="background:#ffd966; padding:0.8rem; border-radius:4px; margin-bottom:0.6rem;">
@@ -519,7 +518,7 @@ Small‑group classification + short discussion
 
 </div>
 
-*Image placeholder — insert here*
+<img src="https://raw.githubusercontent.com/posetgar/RDM_training_design/main/assets/gdpr_identifiers.png" style="max-width:100%; height:auto;" />
 
 ---
 
@@ -538,7 +537,7 @@ Formative discussion
 
 </div>
 
-*Image placeholder — insert here*
+<img src="https://raw.githubusercontent.com/posetgar/RDM_training_design/main/assets/dos_donts_security.png" style="max-width:100%; height:auto;" />
 
 ---
 
@@ -557,7 +556,7 @@ Ice‑breaker + quick reflection
 
 </div>
 
-*Image placeholder — insert here*
+<img src="https://raw.githubusercontent.com/posetgar/RDM_training_design/main/assets/fileName_spinWheel.png" style="max-width:100%; height:auto;" />
 
 ---
 
@@ -576,24 +575,6 @@ Can be run as energizer (stand up/sit down) or online (quiz)
 
 </div>
 
-*Image placeholder — insert here*
+<img src="https://raw.githubusercontent.com/posetgar/RDM_training_design/main/assets/FAIRassessment.png" style="max-width:100%; height:auto;" />
 
 ---
-
-
-<div style="background:#bdea75; padding:0.8rem; border-radius:4px; margin-bottom:0.6rem;">
-
-**Production — DMP final evaluation**
-
-After in‑depth sessions on all DMP sections, groups evaluate one section of the fictional DMP used earlier. Scenarios differ by discipline and may involve personal data, valorisation, or domain‑specific workflows.
-
-**Learning outcome:**  
-Learners can evaluate a DMP section against best‑practice criteria and revise it to resolve issues or misconceptions.
-
-**Format & duration:**  
-Group evaluation + debrief  
-**Total:** ~25 minutes
-
-</div>
-
-*Image placeholder — insert here*
