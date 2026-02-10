@@ -248,7 +248,7 @@ Because each activity type has its own colour and format, it gives you an instan
 
 <h3>What comes next</h3>
         
-In the next part of the course, we will explore the first two stages of the training design cycle (*Analysis* and *Design*) and apply these steps to develop your own training concept.
+In the next part of the course, we will explore the first two stages of the training design cycle (*Analysis* and *Design*), as well as *Evaluation*, and apply these steps to develop your own training concept.
         
 
 ## Initial training analysis
@@ -475,7 +475,7 @@ ABC uses six learning types to help you structure the journey. These represent d
 
 </div>
 
-## Example of a learner's journey
+### Example of a learner's journey
 
 The Doctoral Schools at Ghent University offer a Research Data Management (RDM) training trajectory that helps PhD researchers build practical, discipline‑specific data skills. Learners move through a series of short, interactive activities designed to introduce key RDM concepts and immediately apply them. Below are examples of activities used throughout the course. The materials of the course can be accessed at:
 - Ghent University Data Stewards (2023). Research Data Management: practical course (UGent Doctoral Schools - Transferable skills course). Open Science Framework. https://doi.org/10.17605/OSF.IO/GDQ93
@@ -489,16 +489,13 @@ The Doctoral Schools at Ghent University offer a Research Data Management (RDM) 
 
 **Production — DMP data summary table**
 
-Learners work with a fictional—but realistic—DMP tailored to their Doctoral Schools cluster. After a short introduction to DMPs and DMPonline.be, groups analyse different research scenarios (e.g., personal data, valorisation‑sensitive work packages) and translate them into the Flemish funder’s required summary table.
+This activity follows a short introduction to DMPs, with specific focus on the data description/summary section. Learners are given a fictional—but realistic—research project tailored to their Doctoral Schools cluster. After reviewing the project description and a visual data‑workflow overview, groups work together to create the data summary table required by the Flemish funder template.
 
 **Learning outcome:**  
 Learners can construct a complete data summary table from a project description and data‑flow information.
 
-**Format & duration:**  
-5 min explanation + table reading  
-10 min group work  
-10 min class discussion  
-**Total:** ~25 minutes
+
+**Duration:** ~30 minutes
 
 </div>
 
@@ -508,14 +505,15 @@ Learners can construct a complete data summary table from a project description 
 
 **Collaboration — Direct & indirect identifiers, and special categories of personal data**
 
-In small groups, learners classify variables on post‑its as direct or indirect identifiers. Afterwards, they discuss which variables fall under special categories of personal data and reflect on re‑identification risks.
+In small groups, learners classify variables of personal data that are written on post its as direct or indirect identifiers. Afterwards, they discuss which variables fall under special categories of personal data and reflect on re identification risks.
 
 **Learning outcome:**  
 Learners can distinguish between direct and indirect identifiers and evaluate when data qualifies as a special category under GDPR.
 
 **Format & duration:**  
 Small‑group classification + short discussion  
-**Total:** ~10 minutes
+
+**Duration:** ~10 minutes
 
 </div>
 <p align="center">
@@ -527,14 +525,12 @@ Small‑group classification + short discussion
 
 **Discussion — Do’s and Don’ts of data security**
 
-Learners review everyday examples of data storage and security and classify them as good or bad practices. This reinforces core principles and helps surface common risky behaviours.
+Learners examine everyday examples of data storage and security (e.g., using external cloud services, backing up data) and classify them as good (“Do’s”) or bad (“Don’ts”) practices. This activity precedes the input on storage and security and serves as a formative assessment to surface risky habits or misconceptions that can be addressed during the lecture.
 
 **Learning outcome:**  
 Learners can judge the security implications of everyday data‑handling practices and justify recommended alternatives.
 
-**Format & duration:**  
-Formative discussion  
-**Total:** 15–20 minutes
+**Duration:** ~15 minutes
 
 </div>
 <p align="center">
@@ -552,12 +548,16 @@ After an introduction to FAIR principles, learners examine three datasets of the
 **Learning outcome:**  
 Learners can assess the FAIRness of datasets using criteria related to documentation quality, metadata, PIDs, and repository selection.
 
-**Format & duration:**  
-Can be run as energizer (stand up/sit down) or online (quiz)  
-**Total:** 20–25 minutes
+**Duration:** 20–25 minutes
 
 </div>
 <p align="center">
 <img src="https://raw.githubusercontent.com/posetgar/RDM_training_design/main/assets/FAIRassessment.png" style="max-width:100%; height:auto;" />
 </p>
 ---
+
+### Group activity: develop the learner's journey
+
+
+## Training evaluation
+
