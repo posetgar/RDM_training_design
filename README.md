@@ -479,6 +479,8 @@ ABC uses six learning types to help you structure the journey. These represent d
 
 The Doctoral Schools at Ghent University offer a Research Data Management (RDM) training trajectory that helps PhD researchers build practical, discipline‑specific data skills. Learners move through a series of short, interactive activities designed to introduce key RDM concepts and immediately apply them. Below are examples of activities used throughout the course. The materials pf the course can be accessed at: Ghent University Data Stewards (2023). Research Data Management: practical course (UGent Doctoral Schools - Transferable skills course). Open Science Framework. https://doi.org/10.17605/OSF.IO/GDQ93
 
+<img src="https://raw.githubusercontent.com/posetgar/RDM_training_design/main/assets/DS_learnersJourney.png" style="max-width:100%; height:auto;" />
+
 ---
 
 <div style="background:#bdea75; padding:0.8rem; border-radius:4px; margin-bottom:0.6rem;">
