@@ -488,7 +488,7 @@ The Doctoral Schools at Ghent University offer a Research Data Management (RDM) 
 Learners work with a fictional—but realistic—DMP tailored to their Doctoral Schools cluster. After a short introduction to DMPs and DMPonline.be, groups analyse different research scenarios (e.g., personal data, valorisation‑sensitive work packages) and translate them into the Flemish funder’s required summary table.
 
 **Learning outcome:**  
-Learners can **construct** a complete data summary table from a project description and data‑flow information.
+Learners can construct a complete data summary table from a project description and data‑flow information.
 
 **Format & duration:**  
 5 min explanation + table reading  
@@ -509,7 +509,7 @@ Learners can **construct** a complete data summary table from a project descript
 In small groups, learners classify variables on post‑its as direct or indirect identifiers. Afterwards, they discuss which variables fall under special categories of personal data and reflect on re‑identification risks.
 
 **Learning outcome:**  
-Learners can **distinguish** between direct and indirect identifiers and **evaluate** when data qualifies as a special category under GDPR.
+Learners can distinguish between direct and indirect identifiers and evaluate when data qualifies as a special category under GDPR.
 
 **Format & duration:**  
 Small‑group classification + short discussion  
@@ -528,7 +528,7 @@ Small‑group classification + short discussion
 Learners review everyday examples of data storage and security and classify them as good or bad practices. This reinforces core principles and helps surface common risky behaviours.
 
 **Learning outcome:**  
-Learners can **judge** the security implications of everyday data‑handling practices and **justify** recommended alternatives.
+Learners can judge the security implications of everyday data‑handling practices and justify recommended alternatives.
 
 **Format & duration:**  
 Formative discussion  
@@ -547,7 +547,7 @@ Formative discussion
 Using file names collected during a warm‑up quiz, a random name is selected via a spin wheel. Learners guess the file’s content and quickly see why clear, descriptive file names matter.
 
 **Learning outcome:**  
-Learners can **explain** why meaningful file names support clarity, collaboration, and long‑term reuse.
+Learners can explain why meaningful file names support clarity, collaboration, and long‑term reuse.
 
 **Format & duration:**  
 Ice‑breaker + quick reflection  
@@ -566,7 +566,7 @@ Ice‑breaker + quick reflection
 After an introduction to FAIR principles, learners examine three datasets of the same type but with different degrees of FAIRness. Using predefined questions, they evaluate metadata, documentation, repository choice, PIDs, and other FAIR‑related aspects.
 
 **Learning outcome:**  
-Learners can **assess** the FAIRness of datasets using criteria related to documentation quality, metadata, PIDs, and repository selection.
+Learners can assess the FAIRness of datasets using criteria related to documentation quality, metadata, PIDs, and repository selection.
 
 **Format & duration:**  
 Can be run as energizer (stand up/sit down) or online (quiz)  
@@ -586,7 +586,7 @@ Can be run as energizer (stand up/sit down) or online (quiz)
 After in‑depth sessions on all DMP sections, groups evaluate one section of the fictional DMP used earlier. Scenarios differ by discipline and may involve personal data, valorisation, or domain‑specific workflows.
 
 **Learning outcome:**  
-Learners can **evaluate** a DMP section against best‑practice criteria and **revise** it to resolve issues or misconceptions.
+Learners can evaluate a DMP section against best‑practice criteria and revise it to resolve issues or misconceptions.
 
 **Format & duration:**  
 Group evaluation + debrief  
