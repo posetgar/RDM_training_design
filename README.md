@@ -584,3 +584,94 @@ If needed, return to the initial training analysis to review the content and goa
 
 ## Training evaluation
 
+Evaluation is an essential part of training design and not only and add-on at the end of the course. It helps you understand what learners have achieved, how effective your learning activities were, and what can be improved in future editions. Evaluation also provides evidence of success—for both you as a trainer and the learners themselves.
+
+Designing training evaluation means deciding **what information** you need, determining **when and how you will collect it**, and planning how you will analyse and use the results as part of your overall training design. Evaluation is a continuous cycle. Start small, collect a few high‑value data points, and refine your approach over time.
+
+<h3> What to evaluate? </h3>
+
+Training evaluation typically focuses on four levels, based on **Kirkpatrick’s Four Levels of Evaluation model**: Reaction, Learning, Behavior, and Results. You may not always be able to measure all four levels, but identifying **what information you want** will help you design suitable evaluation opportunities.
+
+<details>
+  <summary><strong>Results</strong></summary>
+
+<p>- What high‑level or organisational benefits came from the training?</p>
+<p>- Examples: quality of DMPs improves, more datasets are shared openly, KPIs rise.</p>
+
+</details>
+
+<details>
+  <summary><strong>Behaviour</strong></summary>
+
+<p>- Did participants apply the practices taught?</p>
+<p>- Are they using better storage methods, documenting data properly, or improving file naming?</p>
+
+</details>
+
+<details>
+  <summary><strong>Learning</strong></summary>
+
+<p>- Did learners actually gain knowledge or skills?</p>
+<p>- Can they demonstrate understanding through quizzes, discussions, or assignments?</p>
+
+</details>
+
+<details>
+  <summary><strong>Reaction</strong></summary>
+
+<p>- What did participants think of the course?</p>
+<p>- Was it useful, relevant, well-paced?</p>
+<p>- Do they have suggestions for improvement?</p>
+
+</details>
+
+
+<br>
+<img src="https://raw.githubusercontent.com/posetgar/RDM_training_design/main/assets/Kirkpatrick_evaluation_levels.png"
+     alt="Training lifecycle" style="max-width: 80%; display: block; margin: 1rem auto;" />
+<br>
+
+
+<h3> When & how to evaluate? </h3>
+
+Evaluation can occur before, during, and after the training.
+
+| **When**            | **Type of Evaluation**            | **Purpose / Description**                                                                 | **Examples** |
+|---------------------|-----------------------------------|-------------------------------------------------------------------------------------------|--------------|
+| Before training | **Evaluation of training design** | Assess the quality of the planned course; use rubrics for self‑assessment or peer review. | [Blackboard Exemplary Course Program Rubric](https://www.blackboard.com/material/exemplary-course-program-rubric) |
+|                     | **Diagnostic assessment**         | Identify learners’ prior knowledge, strengths, expectations, and needs.                   | Short surveys, questionnaires, entry quizzes (e.g., Moodle diagnostic survey, [Carpentries pre-workshop survey](https://carpentries.github.io/assessment-archives/pre-workshop/pre-workshop.html)) |
+| During training | **Learning (formative assessment)** | Monitor progress, provide feedback, and address misunderstandings early.                 | Quizzes, polls, discussions, hands‑on activities or [other techniques](https://www.blackboard.com/blog/give-and-take-finding-the-value-in-classroom-feedback) |
+|                     | **Reaction**                      | Gather immediate feedback, adjust pacing or approach during the session.                 | [Minute cards](https://carpentries.github.io/instructor-training/06-feedback.html#minute-cards), [“one‑up/one‑down”](https://carpentries.github.io/instructor-training/06-feedback.html#one-up-one-down), polls, observations of engagement |
+| After training | **Learning (summative assessment)** | Evaluate overall achievement at the end of a course.                                     | Tests, final assignments, exams, final project/DMP evaluation, demonstrations |
+|                     | **Reaction**                      | Collect structured and open feedback from participants.                                  | End‑of‑course surveys (e.g. [Carpentries post-workshop survey](https://carpentries.github.io/assessment-archives/post-workshop/post-workshop.html)), direct questions, exit tickets |
+|                     | **Behaviour & results**           | Assess longer‑term application of skills and organisational impact.                      | Follow‑up surveys, quality of DMPs, KPIs (e.g., % of datasets published OA) |
+
+<h3>Formative vs. summative assessment </h3>
+
+When planning how to evaluate your training, it is important to distinguish between **formative** and **summative** assessment. Both types support learning, but they do so in different ways. Formative assessment is woven into the learning process: it gives both trainer and learners ongoing feedback that helps improve understanding while the training is still happening. Summative assessment, by contrast, looks back at the end of a module or course and captures what learners have ultimately achieved. Together, they create a more complete picture of learning.
+
+<div class="ugent-box ugent-example">
+<h4>Formative assessment</h4>
+<p>- Occurs **during** the learning process</p>
+<p>- Provides **continuous feedback** to guide improvement</p>
+<p>- Helps identify misconceptions early, allowing timely intervention</p>
+<p>- Low stakes and often ungraded</p>
+<p>- Encourages learners to reflect on their own progress</p> 
+</div>
+
+<div class="ugent-box ugent-example">
+<h4>Summative assessment</h4>
+<p>- Occurs **after** learning has taken place</p>
+<p>- Provides a **final measure** of achievement</p>
+<p>- Often higher stakes and may contribute to certification or grading</p>
+<p>- Offers insights for improving future training design</p>
+</div>
+
+
+<h3>References</h3>
+
+- https://www.blackboard.com/material/exemplary-course-program-rubric
+- https://www.blackboard.com/blog/give-and-take-finding-the-value-in-classroom-feedback
+- https://carpentries.github.io/instructor-training/index.html 
+- Clare, H., Cepinskas, L., Leenarts, E., & Krzyzanek, M. (2022, October 26). EOSC Synergy Online Training Handbook materials. Zenodo. https://doi.org/10.5281/zenodo.7254522
+- https://www.niu.edu/citl/resources/guides/instructional-guide/formative-and-summative-assessment.shtml 
