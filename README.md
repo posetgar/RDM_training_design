@@ -566,18 +566,6 @@ If needed, return to the initial training analysis to review the content and goa
 
 <h4> Instructions </h4>
 
-## Group activity — Develop your own learner’s journey
-
-Now that you have analysed your future training and reviewed an example of a learner’s journey, it’s time to design one for your own course. You will work in the same breakout groups as before, building on the results of your initial training analysis.
-
-Your task is to outline the structure of your course by deciding **what topics you will cover**, **which learning activities you will use**, and **how these activities align with your learning outcomes**.
-
-If needed, return to *Worksheet A* to review the content and goals of your future course.
-
----
-
-## Instructions
-
 **1. Review the six learning types**: Revisit the six ABC learning types (Acquisition, Discussion, Collaboration, Investigation, Practice, Production) and familiarise yourselves with their definitions.
 
 **2. Complete the Learner’s Journey table**: Fill in the table row by row. You may delete the example entries—they are only included for reference.
