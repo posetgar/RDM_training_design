@@ -25,14 +25,6 @@ This session provides a practical introduction to designing and evaluating train
 
 By the end of the session, you will have taken the first steps toward developing an RDM training concept that is aligned with learner needs, supported by clear outcomes, and grounded in thoughtful instructional design.
 
-During the session, the following topics will be addressed:
-
-- Training example: mapping an RDM course delivered by Ghent University data stewards to the ABC learning design method  
-- Overview of different RDM learning activities  
-- Evaluating and adapting training: how to include evaluation in training and adapt according to feedback or delivery method  
-- Hands-on work: getting started with the design of RDM training
-
-
 <div class="ugent-box ugent-example">
 <h3>Learning outcomes</h3>
 <p>Upon completion of this session, students will be able to:</p>
@@ -49,7 +41,7 @@ During the session, the following topics will be addressed:
 
 
 <h3>Methods</h3>
-This lesson includes short lectures and group discussion, as well as smaller group work tasks. It is an interactive session involving knowledge-sharing and discussion among learners.
+This lesson includes short lectures and group discussion, and small-group design exercises. It is an interactive session involving knowledge-sharing, reflection, and collaboration among learners.
 
 <h3>Assignment</h3>
 Individually designing a training concept using the template given (2-3 pages).
