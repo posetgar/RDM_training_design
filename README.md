@@ -55,25 +55,6 @@ This lesson includes short lectures and group discussion, as well as smaller gro
 Individually designing a training concept using the template given (2-3 pages).
 The details of the assignment will be discussed during the live session and uploaded to Moodle.
 
-<div class="ugent-box ugent-example">
-<h3>Example</h3>
-<p>This is an example with UGent styling.</p>
-</div>
-
-<div class="ugent-box ugent-activity">
-<h3>Activity</h3>
-<p>Try applying the ADDIE model to your own training.</p>
-</div>
-
-<div class="ugent-box ugent-learning">
-<h3>Learning Outcome</h3>
-<p>You will be able to identify key instructional design principles.</p>
-</div>
-
-<div class="ugent-box ugent-warning">
-<h3>Warning</h3>
-<p>Do not skip the analysis phase—it saves time later!</p>
-</div>
 
 ## Why spending time on training design?
 
