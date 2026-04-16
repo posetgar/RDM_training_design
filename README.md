@@ -34,8 +34,6 @@ By the end of the session, you will have taken the first steps toward developing
 <p>- Identify and define the topics, learning objectives, and outcomes for the course</p>
 <p>- Propose appropriate learning activities and learning types for the different course topics</p>
 <p>- Sketch a plan to include assessment and feedback mechanisms for the course</p> 
-<p>- Evaluate the effectiveness of the learning activities proposed by peers</p>
-<p>- Process and incorporate feedback into their own training design or concept</p> 
 <p>- Develop a sense of ownership and responsibility for their own learning</p>
 </div>
 
