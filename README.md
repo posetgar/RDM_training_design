@@ -1,12 +1,12 @@
 <!--
 link: https://cdn.jsdelivr.net/gh/posetgar/preserving_data_training_test@main/style/ugent-theme.css
 
-title: Research Data Management in practice
+title: RDM Training Design & Evaluation in Practice
 author:     Paula Oset Garcia
 email:      rdm.support@ugent.be
-comment:    This course introduces...
+comment:    This course corresponds to Module 4.2 in the University of Vienna Data Steward Certificate Course.
 icon:       https://styleguide.ugent.be/files/uploads/logo_UGent_EN_RGB_2400_kleur_witbg.png
-repository: https://github.com/posetgar/preserving_data_course
+repository: https://github.com/posetgar/RDM_training_design
 language:   en
 @MERMAID:   true
 mode: section
@@ -21,7 +21,7 @@ This course corresponds to Module 4.2 in the [University of Vienna Data Steward 
 <h2>Course information</h2>
 
 <h3>Course description</h3>
-This session provides a practical introduction to designing and evaluating training in the domain of Research Data Management (RDM). It builds on the basic didactic concepts introduced in the previous session (4.1) and applies them through the design of an RDM training. In this follow-up session, the focus shifts from theory to practice. We will concentrate on actively thinking through how RDM training can be designed, adapted, and evaluated in your own context. Working in small groups, you will identify training needs, define the characteristics of your target audience, formulate learning objectives, and explore suitable learning activities.
+This session provides a practical introduction to designing and evaluating training in the domain of Research Data Management (RDM). It refreshes the basic didactic concepts introduced in the previous session (4.1) and applies them through the design of an RDM training. In this follow-up session, the focus shifts from theory to practice. We will concentrate on actively thinking through how RDM training can be designed, adapted, and evaluated in your own context. Working in small groups, you will identify training needs, define the characteristics of your target audience, formulate learning objectives, and explore suitable learning activities.
 
 By the end of the session, you will have taken the first steps toward developing an RDM training concept that is aligned with learner needs, supported by clear outcomes, and grounded in thoughtful instructional design.
 
@@ -141,6 +141,11 @@ Thoughtful design prevents overload, avoids unnecessary content, and focuses on 
 
 <br>
 
+<h3>References</h3>
+
+- Clare, H., Cepinskas, L., Leenarts, E., & Krzyzanek, M. (2022, October 26). EOSC Synergy Online Training Handbook materials. Zenodo. https://doi.org/10.5281/zenodo.7254522
+- Hackl, Claudia (2025). Teaching basics, Knowledge transfer, OER. Session 4.1 (Module 4), University of Vienna Data Steward Certificate Course.
+
 ## The training design lifecycle
 
 Training design is more than preparing slides or selecting activities. It is a
@@ -222,7 +227,10 @@ Because each activity type has its own colour and format, it gives you an instan
 <h3>What comes next</h3>
         
 In the next part of the course, we will explore the first two stages of the training design cycle (*Analysis* and *Design*), as well as *Evaluation*, and apply these steps to develop your own training concept.
-        
+
+<h3>References</h3>
+
+- Clare, H., Cepinskas, L., Leenarts, E., & Krzyzanek, M. (2022, October 26). EOSC Synergy Online Training Handbook materials. Zenodo. https://doi.org/10.5281/zenodo.7254522  
 
 ## Initial training analysis
 
@@ -249,6 +257,11 @@ This information feeds directly into ABC storyboarding later on: clearer goals a
 <p>Learning outcomes describe the specific, observable things learners should be able to do after completing the training. They are observable behaviours or skills that show the training has worked. Examples: "“Participants can choose an appropriate repository for their data", “Participants can recognise when personal or sensitive data requires extra protection”.</p>
 </div>
 
+<h3>References</h3>
+
+- Clare, H., Cepinskas, L., Leenarts, E., & Krzyzanek, M. (2022, October 26). EOSC Synergy Online Training Handbook materials. Zenodo. https://doi.org/10.5281/zenodo.7254522
+- [Relation between learning goals and learning outcomes](https://www.uantwerpen.be/en/centres/centre-expertise-higher-education/didactic-information/teaching-tips/curriculum/learning-objectives-outcomes/). Centre of Expertise for Higher Education | University of Antwerp.
+- DePaul University. Course objectives & learning outcomes. https://resources.depaul.edu/teaching-commons/teaching-guides/course-design/Pages/course-objectives-learning-outcomes.aspx
 
 ### Writing good learning outcomes
 Good learning outcomes help you design focused, measurable training. They guide your choice of activities in the ABC model and help you evaluate whether the training worked.
@@ -340,7 +353,7 @@ This outcome is: **S**pecific (concrete actions); **M**easurable (two improvemen
 
 Now that you have seen what goes into an initial training analysis, it’s time to put this into practice. In this activity, you will work in small groups in breakout rooms to complete a training analysis. The initial training analysis template that will be used for this activity is a simpler version than the one you will use for your individual assignment later in the module, but it includes all the key elements you need to begin thinking like a training designer.
 
-You will work collaboratively on a shared **Miro board**. Each group will receive:
+You will work collaboratively on a shared **Miro board** (link in Moodle). Each group will receive:
 <ul>
   <li>a predefined training scenario,</li>
   <li>a simplified analysis table (Title, Audience, Training goal(s), Benefits/outcomes, Pre‑requisites, Content),</li>
@@ -448,6 +461,9 @@ ABC uses six learning types to help you structure the journey. These represent d
 
 </div>
 
+
+- This work is a derivative of “ABC Learning Design” by  Clive Young and Nataša Perović, UCL (2015), Learning types, Laurillard, D. (2012). Licensed under CC BY-NC-SA 4.0. Original resources available at [abc-ld.org](https://abc-ld.org/). 
+
 ### Example of a learner's journey
 
 The Doctoral Schools at Ghent University offer a Research Data Management (RDM) training trajectory that helps PhD researchers build practical, discipline‑specific data skills. Learners move through a series of short, interactive activities designed to introduce key RDM concepts and immediately apply them. Below are examples of activities used throughout the course. The materials of the course can be accessed at:
@@ -531,7 +547,7 @@ Learners can assess the FAIRness of datasets using criteria related to documenta
 
 ### Group activity: Developing the learner's journey
 
-Now that you have analysed your future training and reviewed an example of a learner’s journey, it’s time to design one for your own course. You will work in breakout groups again, and in the same Miro board as before, building on the results of your initial training analysis.
+Now that you have analysed your future training and reviewed an example of a learner’s journey, it’s time to design one for your own course. You will work in breakout groups again, and in the same Miro board as before (link in Moodle), building on the results of your initial training analysis.
 
 Your task is to outline the structure of your course by deciding what topics you will cover, which learning activities you will use, and how these activities align with your learning outcomes.
 
@@ -643,8 +659,8 @@ When planning how to evaluate your training, it is important to distinguish betw
 
 <h3>References</h3>
 
-- https://www.blackboard.com/material/exemplary-course-program-rubric
-- https://www.blackboard.com/blog/give-and-take-finding-the-value-in-classroom-feedback
-- https://carpentries.github.io/instructor-training/index.html 
+- The Carpentries Instructor Training, November 2021. Word K., Brown S.M., Dennis T., Barnes K. (eds). DOI: [10.5281/zenodo.5709383](https://doi.org/10.5281/zenodo.5709383)
+- Blackboard exemplary course program rubric. Blackboard. [https://www.blackboard.com/material/exemplary-course-program-rubric](https://www.blackboard.com/material/exemplary-course-program-rubric)
+- Barry, Emily-Rose. Give and take: Finding the value in classroom feedback. Blackboard. [https://www.blackboard.com/blog/give-and-take-finding-the-value-in-classroom-feedback](https://www.blackboard.com/blog/give-and-take-finding-the-value-in-classroom-feedback)
 - Clare, H., Cepinskas, L., Leenarts, E., & Krzyzanek, M. (2022, October 26). EOSC Synergy Online Training Handbook materials. Zenodo. https://doi.org/10.5281/zenodo.7254522
-- https://www.niu.edu/citl/resources/guides/instructional-guide/formative-and-summative-assessment.shtml 
+- Formative and summative assessment: Center for innovative teaching and learning. Northern Illinois University. [https://www.niu.edu/citl/resources/guides/instructional-guide/formative-and-summative-assessment.shtml](https://www.niu.edu/citl/resources/guides/instructional-guide/formative-and-summative-assessment.shtml)
