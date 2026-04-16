@@ -264,15 +264,13 @@ This information feeds directly into ABC storyboarding later on: clearer goals a
 ### Writing good learning outcomes
 Good learning outcomes help you design focused, measurable training. They guide your choice of activities in the ABC model and help you evaluate whether the training worked.
 
-<h3>Use the SMARTIE framework</h3>
+<h3>Use the SMART framework</h3>
 Learning outcomes should be:
 - **S**pecific – focused on a clear behaviour or skill
-- **M**easurable – observable in some way
-- **A**chievable – realistic for your timeframe
-- **R**elevant – tied to your training goal
+- **M**easurable – observable in some way, using observable action verbs
+- **A**chievable – realistic given the resources
+- **R**elevant – tied to your training goal, meaningful and applicable to real-world settings
 - **T**ime-limited – achievable by the end of this session
-- **I**nclusive – accessible to all intended learners
-- **E**quitable – fair regardless of background or prior experience
 
 <h3>Use Bloom's Taxonomy to choose strong action verbs</h3>
 Choosing the right verb is essential because it signals what learners will actually do to demonstrate learning. Vague verbs like “know”, “learn about”, or “understand” are hard to measure and don’t guide activity design. Bloom’s Taxonomy helps you select clear, observable verbs that match different levels of cognition: from simple recall to more complex tasks like evaluating options or creating new outputs. Below you’ll find the Bloom levels in order, with verbs that will help you to write precise, measurable learning outcomes.
