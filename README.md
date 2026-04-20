@@ -235,7 +235,7 @@ In the next part of the course, we will explore the first two stages of the trai
 Before starting to design activities or content, it’s important to pause and carry out a short initial training analysis. This helps you clarify the purpose of your training, understand who your learners are, and identify any practical constraints. Even a simple analysis makes the later design phase (including ABC Learning Design) faster, more focused, and much more effective.
 
 <div class="ugent-box ugent-warning">
-<h3>What to condsider in an initial training analysis?</h3>
+<h3>What to consider in an initial training analysis?</h3>
 <p>- **Goals** of your training – the big picture: why this training exists and what change you hope it will bring.</p>
 <p>- **Topics** and scope – what the training will broadly address.</p>
 <p>- **Audience** – who the learners are, what they already know, what they need, and what might motivate or block them.</p>
